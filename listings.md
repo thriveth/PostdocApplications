@@ -189,7 +189,6 @@ LETTERS: [Mail](arav@vt.edu)
     -   [ ] Goran
     -   [ ] Matthew
     -   [ ] John
-    -
 
 Keywords: QSO, AGN, outflows, UV/Optical spec, HST, &#x2026; 
 
