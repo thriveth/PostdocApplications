@@ -60,7 +60,7 @@ LETTERS: [Mail](rupali.chandar@utoledo.edu)
     -   [X] Publication list
     -   [X] Statement of research interests
 
--   [-] Letters of reference <code>[1/3]</code>    
+-   [ ] Letters of reference <code>[1/3]</code>    
     -   [ ] Goran
     -   [ ] Matt
     -   [X] John
@@ -309,7 +309,7 @@ LINK: [AAS](https://jobregister.aas.org/job_view?JobID=56846)
 LETTERS: 3-5, Requests will be generated.
 Keywords: Open, shortprop
 
--   [-] Documents to send in <code>[3/4]</code>
+-   [ ] Documents to send in <code>[3/4]</code>
     -   [ ] Brief cover letter
     -   [X] CV
     -   [X] Publication list
@@ -337,7 +337,7 @@ LETTERS: [Mail](rsaa.hr@anu.edu.au)
     -   [ ] A 3-page statement describing your future research plans
     -   [ ] Applications should arrange 3 letters of recommendation be 
         sent to rsaa.hr@anu.edu.au
-2.  [-] Ref letters
+2.  [ ] Ref letters
     -   [ ] Goran
     -   [ ] Matthew
     -   [X] John
