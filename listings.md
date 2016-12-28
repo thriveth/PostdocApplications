@@ -2,50 +2,50 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org22a60b7">1. Postdocs</a>
+<li><a href="#org04c9ddf">1. Postdocs</a>
 <ul>
-<li><a href="#org09292b8">1.1. <span class="todo WAITING">WAITING</span> <span class="priority">[A]</span> Toledo Star cluster formation <code>[1/2]</code></a></li>
-<li><a href="#orgc8876a6">1.2. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> CLOUDY + MOSFIRE High-z gals @ Caltech <code>[0%]</code></a></li>
-<li><a href="#org8274819">1.3. <span class="todo WAITING">WAITING</span> <span class="priority">[C]</span> UCSC DES/LSST postdoc   <code>[5/9]</code></a></li>
-<li><a href="#org4fc1212">1.4. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Kapteyn Karina Caputi high-z gal.ev. Spitzer JWST <code>[0%]</code></a></li>
-<li><a href="#org7a63565">1.5. <span class="todo WAITING">WAITING</span> <span class="priority">[A]</span> SDSS/MaNGA @ UW Madison <code>[4/8]</code></a></li>
-<li><a href="#org57c2f78">1.6. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Swinburne, CGM w/ Kacprzak &amp; Murphy <code>[0%]</code></a></li>
-<li><a href="#org9cb7b71">1.7. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Leiden, Rychard Bouwens, High-z gals <code>[0%]</code></a></li>
-<li><a href="#orgc062489">1.8. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Virginia Tech QSO/AGN outflows position</a></li>
-<li><a href="#org484d284">1.9. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Gal evol Sarah Brough, imaging	<code>[0%]</code></a></li>
-<li><a href="#org5fa8bff">1.10. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> ISM @ Ohio State <code>[0%]</code></a></li>
-<li><a href="#orgb47dfba">1.11. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> ISM, UC San Diego <code>[0%]</code></a></li>
-<li><a href="#orgc2badb6">1.12. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> UC Irvine: Cosmo/Extragal  <code>[0/8]</code></a></li>
-<li><a href="#org0239550">1.13. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Broad cosmology/Astrophysics stuff at Milwaukee <code>[0%]</code></a></li>
-<li><a href="#org4b48e60">1.14. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Stony Brook galaxy clusters position <code>[0%]</code></a></li>
-<li><a href="#orgfa8bcec">1.15. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> SU Astro Galaxies Hayes <code>[0%]</code></a></li>
+<li><a href="#org6d0960f">1.1. <span class="todo WAITING">WAITING</span> <span class="priority">[A]</span> Toledo Star cluster formation <code>[1/2]</code></a></li>
+<li><a href="#org5cc6e9d">1.2. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> CLOUDY + MOSFIRE High-z gals @ Caltech <code>[0%]</code></a></li>
+<li><a href="#org30f7a93">1.3. <span class="todo WAITING">WAITING</span> <span class="priority">[C]</span> UCSC DES/LSST postdoc   <code>[5/9]</code></a></li>
+<li><a href="#orge5d072a">1.4. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Kapteyn Karina Caputi high-z gal.ev. Spitzer JWST <code>[0%]</code></a></li>
+<li><a href="#org58e7a7e">1.5. <span class="todo WAITING">WAITING</span> <span class="priority">[A]</span> SDSS/MaNGA @ UW Madison <code>[4/8]</code></a></li>
+<li><a href="#org8c35df5">1.6. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Swinburne, CGM w/ Kacprzak &amp; Murphy <code>[0%]</code></a></li>
+<li><a href="#orgcce792e">1.7. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Leiden, Rychard Bouwens, High-z gals <code>[0%]</code></a></li>
+<li><a href="#org6a6f1ea">1.8. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Virginia Tech QSO/AGN outflows position</a></li>
+<li><a href="#orgc0ad9d3">1.9. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Gal evol Sarah Brough, imaging	<code>[0%]</code></a></li>
+<li><a href="#orgd442911">1.10. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> ISM @ Ohio State <code>[0%]</code></a></li>
+<li><a href="#orgcedf7f0">1.11. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> ISM, UC San Diego <code>[0%]</code></a></li>
+<li><a href="#org1997dad">1.12. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> UC Irvine: Cosmo/Extragal  <code>[0/8]</code></a></li>
+<li><a href="#orgb49e8da">1.13. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Broad cosmology/Astrophysics stuff at Milwaukee <code>[0%]</code></a></li>
+<li><a href="#orgc1aa51c">1.14. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Stony Brook galaxy clusters position <code>[0%]</code></a></li>
+<li><a href="#org7a342db">1.15. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> SU Astro Galaxies Hayes <code>[0%]</code></a></li>
 </ul>
 </li>
-<li><a href="#org6e37a51">2. Fellowships</a>
+<li><a href="#orgefab815">2. Fellowships</a>
 <ul>
-<li><a href="#org313bdeb">2.1. <span class="todo IN_PROGRESS">IN-PROGRESS</span> <span class="priority">[A]</span> UC Santa Barbara <code>[3/9]</code></a></li>
-<li><a href="#orgd94cac8">2.2. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Lisa Kewley &amp; co., RSAA fellowship <code>[0%]</code></a></li>
-<li><a href="#org5792047">2.3. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Nordita fellowship <code>[0%]</code></a></li>
-<li><a href="#org9931909">2.4. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Oxford Hintze <code>[0%]</code></a></li>
-<li><a href="#orgf17198b">2.5. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> YCAA Yale Price Fellowship <code>[0%]</code></a></li>
-<li><a href="#org732d4e5">2.6. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Berkeley LBNL Cosmology fellow <code>[0%]</code></a></li>
-<li><a href="#org75bed27">2.7. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> CAASTRO-3D Fellowship	<code>[0%]</code></a></li>
-<li><a href="#orgf601dc9">2.8. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> SU Physics Cosmo fellowship, Hiranya <code>[0%]</code></a></li>
-<li><a href="#org2035443">2.9. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Villum Experimentet <code>[0%]</code></a></li>
-<li><a href="#org038a3cb">2.10. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Australian NU Matt Colless <code>[0%]</code></a></li>
-<li><a href="#orgfdc47ce">2.11. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> JSPS fellowship in Japan <code>[0%]</code></a></li>
+<li><a href="#orga4ba834">2.1. <span class="todo IN_PROGRESS">IN-PROGRESS</span> <span class="priority">[A]</span> UC Santa Barbara <code>[3/9]</code></a></li>
+<li><a href="#org586a84e">2.2. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Lisa Kewley &amp; co., RSAA fellowship <code>[0%]</code></a></li>
+<li><a href="#org0b8300b">2.3. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Nordita fellowship <code>[0%]</code></a></li>
+<li><a href="#org9360b08">2.4. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Oxford Hintze <code>[0%]</code></a></li>
+<li><a href="#orge98bdf7">2.5. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> YCAA Yale Price Fellowship <code>[0%]</code></a></li>
+<li><a href="#org0d3a9d3">2.6. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Berkeley LBNL Cosmology fellow <code>[0%]</code></a></li>
+<li><a href="#org249c033">2.7. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> CAASTRO-3D Fellowship	<code>[0%]</code></a></li>
+<li><a href="#orgb818a94">2.8. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> SU Physics Cosmo fellowship, Hiranya <code>[0%]</code></a></li>
+<li><a href="#org37722b5">2.9. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Villum Experimentet <code>[0%]</code></a></li>
+<li><a href="#org9cbc32e">2.10. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Australian NU Matt Colless <code>[0%]</code></a></li>
+<li><a href="#orgc5bb97b">2.11. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> JSPS fellowship in Japan <code>[0%]</code></a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<a id="org22a60b7"></a>
+<a id="org04c9ddf"></a>
 
 # Postdocs
 
 
-<a id="org09292b8"></a>
+<a id="org6d0960f"></a>
 
 ## Toledo Star cluster formation <code>[1/2]</code>
 
@@ -66,7 +66,7 @@ LETTERS: [Mail](rupali.chandar@utoledo.edu)
     -   [X] John
 
 
-<a id="orgc8876a6"></a>
+<a id="org5cc6e9d"></a>
 
 ## CLOUDY + MOSFIRE High-z gals @ Caltech <code>[0%]</code>
 
@@ -79,7 +79,7 @@ LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57347)
     -   [ ] Research statement
 
 
-<a id="org8274819"></a>
+<a id="org30f7a93"></a>
 
 ## UCSC DES/LSST postdoc   <code>[5/9]</code>
 
@@ -98,14 +98,14 @@ LETTERS: [Upload](https://recruit.ucsc.edu/apply/JPF00417)
     -   [ ] John
 
 
-<a id="org4fc1212"></a>
+<a id="orge5d072a"></a>
 
 ## Kapteyn Karina Caputi high-z gal.ev. Spitzer JWST <code>[0%]</code>
 
 LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57871)
 
 
-<a id="org7a63565"></a>
+<a id="org58e7a7e"></a>
 
 ## SDSS/MaNGA @ UW Madison <code>[4/8]</code>
 
@@ -125,7 +125,7 @@ Contact: Christy Tremonti
     -   [ ] John
 
 
-<a id="orgdaf9d8a"></a>
+<a id="orgb89fc94"></a>
 
 ### Interesting information:
 
@@ -137,7 +137,7 @@ She is also the advisor of John Chisholm, and second author on the paper
 in which he cites my LARS paper.
 
 
-<a id="org57c2f78"></a>
+<a id="org8c35df5"></a>
 
 ## Swinburne, CGM w/ Kacprzak & Murphy <code>[0%]</code>
 
@@ -158,7 +158,7 @@ LETTERS: <gkacprzak@swin.edu.au>
 Keywords: CGM, z=2-3, Imaging, gas flows, IFUs, 
 
 
-<a id="org6b9581a"></a>
+<a id="org5cf9f45"></a>
 
 ### Selection criteria
 
@@ -176,14 +176,14 @@ Keywords: CGM, z=2-3, Imaging, gas flows, IFUs,
         imaging and spectroscopy
 
 
-<a id="org9cb7b71"></a>
+<a id="orgcce792e"></a>
 
 ## Leiden, Rychard Bouwens, High-z gals <code>[0%]</code>
 
 LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57509)
 
 
-<a id="orgc062489"></a>
+<a id="org6a6f1ea"></a>
 
 ## Virginia Tech QSO/AGN outflows position
 
@@ -199,19 +199,18 @@ LETTERS: [Mail](arav@vt.edu)
     -   [ ] Goran
     -   [ ] Matthew
     -   [ ] John
-    -
 
 Keywords: QSO, AGN, outflows, UV/Optical spec, HST, &#x2026; 
 
 
-<a id="org484d284"></a>
+<a id="orgc0ad9d3"></a>
 
 ## Gal evol Sarah Brough, imaging	<code>[0%]</code>
 
 LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57554)
 
 
-<a id="org5fa8bff"></a>
+<a id="orgd442911"></a>
 
 ## ISM @ Ohio State <code>[0%]</code>
 
@@ -220,7 +219,7 @@ LETTERS: [Upload](https://academicjobsonline.org/ajo/jobs/8626)
 Keywords: SED, Radio, interferometry, z=0
 
 
-<a id="orgb47dfba"></a>
+<a id="orgcedf7f0"></a>
 
 ## ISM, UC San Diego <code>[0%]</code>
 
@@ -228,7 +227,7 @@ LINK: [AAS](http://jobregister.aas.org/job_view?JobID=57658)
 LETTERS: [Upload](https://academicjobsonline.org/ajo/jobs/8567)
 
 
-<a id="orgc2badb6"></a>
+<a id="org1997dad"></a>
 
 ## UC Irvine: Cosmo/Extragal  <code>[0/8]</code>
 
@@ -246,7 +245,7 @@ DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31
     -   [ ] Göran
 
 
-<a id="org0239550"></a>
+<a id="orgb49e8da"></a>
 
 ## Broad cosmology/Astrophysics stuff at Milwaukee <code>[0%]</code>
 
@@ -262,7 +261,7 @@ LETTERS: <cgca-postdoc-applications@uwm.edu>
     -   [ ] John
 
 
-<a id="org5f70b7a"></a>
+<a id="orgd148161"></a>
 
 ### Interesting info
 
@@ -271,7 +270,7 @@ description, and also not have any tight project definition, at least not
 visible. Could be interested in my work and I should **definitely** apply. 
 
 
-<a id="org4b48e60"></a>
+<a id="orgc1aa51c"></a>
 
 ## Stony Brook galaxy clusters position <code>[0%]</code>
 
@@ -280,7 +279,7 @@ LETTERS: [Mail](anja.vonderlinden@stonybrook.edu)
 Keywords: Lensing, statistics, clustering, DM, DE, large datasets
 
 
-<a id="org6b75fd8"></a>
+<a id="org11a343d"></a>
 
 ### Note
 
@@ -289,14 +288,14 @@ practical qualifications. I think it coud be interesting though, and I
 think I could learn wiat it takes relatively quick. 
 
 
-<a id="orgfa8bcec"></a>
+<a id="org7a342db"></a>
 
 ## SU Astro Galaxies Hayes <code>[0%]</code>
 
 LINK: [SU Astro](http://bit.ly/MattFellow2017)
 
 
-<a id="org41db9c6"></a>
+<a id="orge280329"></a>
 
 ### Special thoughts
 
@@ -306,19 +305,19 @@ standpoint. Also, he might be able to let me work on my AGN but it is
 not certain. 
 
 
-<a id="orgf63074a"></a>
+<a id="org49d8845"></a>
 
 ### Specia action:
 
 Might want to acquire a letter from John  and/or Daniella anyway. 
 
 
-<a id="org6e37a51"></a>
+<a id="orgefab815"></a>
 
 # Fellowships
 
 
-<a id="org313bdeb"></a>
+<a id="orga4ba834"></a>
 
 ## UC Santa Barbara <code>[3/9]</code>
 
@@ -339,7 +338,7 @@ Keywords: Open, shortprop
     -   [ ] John
 
 
-<a id="orgd94cac8"></a>
+<a id="org586a84e"></a>
 
 ## Lisa Kewley & co., RSAA fellowship <code>[0%]</code>
 
@@ -361,7 +360,7 @@ LETTERS: [Mail](rsaa.hr@anu.edu.au)
     -   [X] John
 
 
-<a id="org5792047"></a>
+<a id="org0b8300b"></a>
 
 ## Nordita fellowship <code>[0%]</code>
 
@@ -370,14 +369,14 @@ LETTERS: [Write or upload?](http://jam.nordita.org/editTPL.php?&form=Applicant&i
 Important info: No limits, completely Bring-Your-Own project. 
 
 
-<a id="org9931909"></a>
+<a id="org9360b08"></a>
 
 ## Oxford Hintze <code>[0%]</code>
 
 LINK: [AAS](https://jobregister.aas.org/job_view?JobID=56071)
 
 
-<a id="orgf17198b"></a>
+<a id="orge98bdf7"></a>
 
 ## YCAA Yale Price Fellowship <code>[0%]</code>
 
@@ -385,14 +384,14 @@ URI: [AAS](https://jobregister.aas.org/job_view?JobID=56071)
 DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-13 Fri&gt;</span></span>
 
 
-<a id="org522a3ee"></a>
+<a id="org4e99d5e"></a>
 
 ### Science
 
 IFU surveys KMOS, SAMI, MaNGA
 
 
-<a id="org732d4e5"></a>
+<a id="org0d3a9d3"></a>
 
 ## Berkeley LBNL Cosmology fellow <code>[0%]</code>
 
@@ -401,7 +400,7 @@ LETTERS: [Upload](https://academicjobsonline.org/ajo/jobs/8562)
 Cosmology, large samples, statistics, BOSS/eBOSS
 
 
-<a id="org75bed27"></a>
+<a id="org249c033"></a>
 
 ## CAASTRO-3D Fellowship	<code>[0%]</code>
 
@@ -409,7 +408,7 @@ LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57644)
 LETTERS: [Mail](lisa.kewley@anu.edu.au)
 
 
-<a id="org9a54cbf"></a>
+<a id="org333ea94"></a>
 
 ### Special note:
 
@@ -418,28 +417,28 @@ should be looked into further. If there is time. Get the high prio ones
 done first. 
 
 
-<a id="orgf601dc9"></a>
+<a id="orgb818a94"></a>
 
 ## SU Physics Cosmo fellowship, Hiranya <code>[0%]</code>
 
 LINK: [SU Fysikum](http://www.su.se/english/about/vacancies/vacancies-new-list?rmpage=job&rmjob=2143&rmlang=UK)
 
 
-<a id="orgbb5cd18"></a>
+<a id="org71c0811"></a>
 
 ### Special info or thoughts
 
 Look her up on ADS, maybe take clue for ideas there. 
 
 
-<a id="org2035443"></a>
+<a id="org37722b5"></a>
 
 ## Villum Experimentet <code>[0%]</code>
 
 LINK: [Velux fonden Villum Fonden](http://veluxfoundations.dk/da/villum-eksperimentet-honorerer-den-forfriskende-nye-ide)
 
 
-<a id="org038a3cb"></a>
+<a id="org9cbc32e"></a>
 
 ## Australian NU Matt Colless <code>[0%]</code>
 
@@ -448,7 +447,7 @@ LETTERS: [Mail](rsaa.hr@anu.edu.au)
 Keywords: Peculiar velocities, fundamental plane, Spectroscopy.
 
 
-<a id="orgfdc47ce"></a>
+<a id="orgc5bb97b"></a>
 
 ## JSPS fellowship in Japan <code>[0%]</code>
 
