@@ -130,9 +130,9 @@ Dawn Erb's department.
 ## Stony Brook galaxy clusters position <code>[0%]</code>     :letters:
 
 DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue&gt;</span></span>
-LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57672)
-LETTERS: [Mail](anja.vonderlinden@stonybrook.edu)
-Keywords: Lensing, statistics, clustering, DM, DE, large datasets
+LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57672) LETTERS:
+[Mail](mailto:anja.vonderlinden@stonybrook.edu) Keywords: Lensing, statistics,
+clustering, DM, DE, large datasets
 
 
 <a id="orgeb3e32c"></a>
