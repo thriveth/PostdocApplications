@@ -2,26 +2,27 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org7f0d13a">1. Postdocs</a>
+<li><a href="#org992bb28">1. Postdocs</a>
 <ul>
-<li><a href="#org3df5af5">1.1. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> ISM @ Ohio State <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#orgc07c608">1.2. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> ISM, UC San Diego <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#orga659206">1.3. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> UC Irvine: Cosmo/Extragal  <code>[0/0]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#orgf1c5c56">1.4. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Broad cosmology/Astrophysics stuff at Milwaukee <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#org27fe162">1.5. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Stony Brook galaxy clusters position <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#orgc74dd19">1.6. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Extragal Astro/Cosmo in Oslo <code>[0/1]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
-<li><a href="#org5714735">1.7. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> CAASTRO-3D Melbourne Wyithe &amp; Trenti</a></li>
-<li><a href="#org81a4926">1.8. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Gal Ev w/ Subaru+CFHT, JWST at St Marys, Canada <code>[0/7]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#orgcac01b2">1.9. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> MaNGA at Uni of Notingham <code>[0/8]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
-<li><a href="#orgce50b88">1.10. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> High-z galaxy / LyA emission Paris <code>[0/8]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#org9455cdf">1.11. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> SU Astro Galaxies Hayes <code>[0/4]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
+<li><a href="#org1662fe5">1.1. <span class="done WAITING">WAITING</span> <span class="priority">[B]</span> Leiden, Rychard Bouwens, High-z gals <code>[80%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
+<li><a href="#orgcb27084">1.2. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> ISM @ Ohio State <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
+<li><a href="#org64c6cfd">1.3. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> ISM, UC San Diego <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
+<li><a href="#org7a85a37">1.4. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> UC Irvine: Cosmo/Extragal  <code>[0/0]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
+<li><a href="#org89a1848">1.5. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Broad cosmology/Astrophysics stuff at Milwaukee <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
+<li><a href="#org4c71690">1.6. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> Stony Brook galaxy clusters position <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
+<li><a href="#org5160303">1.7. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Extragal Astro/Cosmo in Oslo <code>[0/1]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
+<li><a href="#org5276e33">1.8. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> CAASTRO-3D Melbourne Wyithe &amp; Trenti</a></li>
+<li><a href="#orga467dac">1.9. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Gal Ev w/ Subaru+CFHT, JWST at St Marys, Canada <code>[0/7]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
+<li><a href="#orga170405">1.10. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> MaNGA at Uni of Notingham <code>[0/8]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
+<li><a href="#org4e88d9e">1.11. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> High-z galaxy / LyA emission Paris <code>[0/8]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
+<li><a href="#org1a45650">1.12. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> SU Astro Galaxies Hayes <code>[0/4]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
 </ul>
 </li>
-<li><a href="#orgfb1af81">2. Fellowships</a>
+<li><a href="#orgdfbf780">2. Fellowships</a>
 <ul>
-<li><a href="#org735da2f">2.1. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Australian NU Matt Colless <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#org81a9a18">2.2. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Vetenskapsrådet Internationell Postdok <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="unknown">unknown</span></span></a></li>
-<li><a href="#org17be25d">2.3. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> NASA NPP @ GSFC <code>[0/3]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
+<li><a href="#orgfa0497b">2.1. <span class="todo TODO">TODO</span> <span class="priority">[B]</span> Australian NU Matt Colless <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
+<li><a href="#orgf36672d">2.2. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> Vetenskapsrådet Internationell Postdok <code>[0%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="unknown">unknown</span></span></a></li>
+<li><a href="#orgac6d5e4">2.3. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> NASA NPP @ GSFC <code>[0/3]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
 </ul>
 </li>
 </ul>
@@ -29,12 +30,32 @@
 </div>
 
 
-<a id="org7f0d13a"></a>
+<a id="org992bb28"></a>
 
 # Postdocs
 
 
-<a id="org3df5af5"></a>
+<a id="org1662fe5"></a>
+
+## Leiden, Rychard Bouwens, High-z gals <code>[80%]</code>     :request:
+
+DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-15 Sun&gt;</span></span>
+LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57509)
+LINK: [Leiden U](http://jobs.strw.leidenuniv.nl/2017/BouwensPD/application_form.php)
+
+-   [X] Documents <code>[5/5]</code>
+    -   [X] Cover letter
+    -   [X] CV
+    -   [X] Research statement
+    -   [X] Transcript
+    -   [X] Publication list
+-   [ ] Letters -  Request <code>[2/3]</code>
+    -   [X] Göran
+    -   [X] Matthew
+    -   [ ] Sangeeta
+
+
+<a id="orgcb27084"></a>
 
 ## ISM @ Ohio State <code>[0%]</code>     :letters:
 
@@ -44,7 +65,7 @@ LETTERS: [Upload](https://academicjobsonline.org/ajo/jobs/8626)
 Keywords: SED, Radio, interferometry, z=0
 
 
-<a id="orgc07c608"></a>
+<a id="org64c6cfd"></a>
 
 ## ISM, UC San Diego <code>[0%]</code>     :letters:
 
@@ -53,7 +74,7 @@ LINK: [AAS](http://jobregister.aas.org/job_view?JobID=57658)
 LETTERS: [Upload](https://academicjobsonline.org/ajo/jobs/8567)
 
 
-<a id="orga659206"></a>
+<a id="org7a85a37"></a>
 
 ## UC Irvine: Cosmo/Extragal  <code>[0/0]</code>     :letters:
 
@@ -71,7 +92,7 @@ DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31
     -   [ ] Göran
 
 
-<a id="orgf1c5c56"></a>
+<a id="org89a1848"></a>
 
 ## Broad cosmology/Astrophysics stuff at Milwaukee <code>[0%]</code>     :letters:
 
@@ -89,7 +110,7 @@ LETTERS: <cgca-postdoc-applications@uwm.edu>
     -   [ ] John
 
 
-<a id="orgdee4a9b"></a>
+<a id="orgef94d60"></a>
 
 ### Interesting info
 
@@ -98,7 +119,7 @@ description, and also not have any tight project definition, at least not
 visible. Could be interested in my work and I should **definitely** apply. 
 
 
-<a id="org27fe162"></a>
+<a id="org4c71690"></a>
 
 ## Stony Brook galaxy clusters position <code>[0%]</code>     :letters:
 
@@ -108,7 +129,7 @@ LETTERS: [Mail](anja.vonderlinden@stonybrook.edu)
 Keywords: Lensing, statistics, clustering, DM, DE, large datasets
 
 
-<a id="orgaec807b"></a>
+<a id="org962bfd0"></a>
 
 ### Note
 
@@ -117,7 +138,7 @@ practical qualifications. I think it could be interesting though, and I
 think I could learn what it takes relatively quick. 
 
 
-<a id="orgc74dd19"></a>
+<a id="org5160303"></a>
 
 ## Extragal Astro/Cosmo in Oslo <code>[0/1]</code>     :request:
 
@@ -133,14 +154,19 @@ CONTACT: [Hakon Dahle](http://www.mn.uio.no/astro/personer/vit/hdahle/)
     -   [ ] Matthew
 
 
-<a id="orgd5a9320"></a>
+<a id="org7f83423"></a>
 
 ### Special notes
 
 Mark Dijkstra should somehow be mentioned here, maybe, as he knows me.  
 
 
-<a id="org5714735"></a>
+<a id="org97e5b66"></a>
+
+### Skriv til Kirsten paa Falko
+
+
+<a id="org5276e33"></a>
 
 ## CAASTRO-3D Melbourne Wyithe & Trenti
 
@@ -150,7 +176,7 @@ LINK: [UMelb](http://jobs.unimelb.edu.au/caw/en/job/889636/postdoctoral-research
 CONTACT: [Michele Trenti](mtrenti@unimelb.edu.au)
 
 
-<a id="org81a4926"></a>
+<a id="orga467dac"></a>
 
 ## Gal Ev w/ Subaru+CFHT, JWST at St Marys, Canada <code>[0/7]</code>     :letters:
 
@@ -166,7 +192,7 @@ LINK: [AAS](http://jobregister.aas.org/job_view?JobID=58449)
     -   [ ] John
 
 
-<a id="orgcac01b2"></a>
+<a id="orga170405"></a>
 
 ## MaNGA at Uni of Notingham <code>[0/8]</code>     :request:
 
@@ -185,7 +211,7 @@ CONTACT: [Michael Merrifield](michael.merrifield@nottingham.ac.uk)
     -   [ ] Matthew
 
 
-<a id="orgce50b88"></a>
+<a id="org4e88d9e"></a>
 
 ## High-z galaxy / LyA emission Paris <code>[0/8]</code>     :letters:
 
@@ -203,7 +229,7 @@ CONTACT: [Susanna Vergani](susanna.vergani@obspm.fr)
     -   [ ] John
 
 
-<a id="org9455cdf"></a>
+<a id="org1a45650"></a>
 
 ## SU Astro Galaxies Hayes <code>[0/4]</code>     :request:
 
@@ -217,7 +243,7 @@ LINK: [AAS](http://jobregister.aas.org/job_view?JobID=58267)
     -   [ ] Research statement (3 pages)
 
 
-<a id="org58befd8"></a>
+<a id="orgb7ce62f"></a>
 
 ### Special notes
 
@@ -225,12 +251,12 @@ Matt mentioned that even though we know each other, it might be a good
 idea to provide reference letters. Check whether this was the case.
 
 
-<a id="orgfb1af81"></a>
+<a id="orgdfbf780"></a>
 
 # Fellowships
 
 
-<a id="org735da2f"></a>
+<a id="orgfa0497b"></a>
 
 ## Australian NU Matt Colless <code>[0%]</code>     :letters:
 
@@ -240,7 +266,7 @@ LETTERS: [Mail](rsaa.hr@anu.edu.au)
 Keywords: Peculiar velocities, fundamental plane, Spectroscopy.
 
 
-<a id="org81a9a18"></a>
+<a id="orgf36672d"></a>
 
 ## Vetenskapsrådet Internationell Postdok <code>[0%]</code>     :unknown:
 
@@ -253,7 +279,7 @@ LINK: [VR](http://www.vr.se/forskningsfinansiering/sokabidrag/oversiktutlysninga
     -   [ ] Budget
 
 
-<a id="org17be25d"></a>
+<a id="orgac6d5e4"></a>
 
 ## NASA NPP @ GSFC <code>[0/3]</code>     :request:
 
@@ -263,14 +289,14 @@ LINK: [NASA PP](https://npp.usra.edu/opportunities/)
 CONTACT: [Jane Rigby](jane.r.rigby@nasa.gov)
 
 
-<a id="orgdb9330b"></a>
+<a id="org08766b7"></a>
 
 ### Documents <code>[0/1]</code>
 
 -   [ ] Research proposal
 
 
-<a id="org227243b"></a>
+<a id="org77f8ed1"></a>
 
 ### Check if recletters still up to date
 
@@ -279,7 +305,7 @@ degree since the last ones were written? At least ask whether this is a
 good idea&#x2026;?
 
 
-<a id="orgd2f196a"></a>
+<a id="org25099a4"></a>
 
 ### Write Rigby with proposal draft/last almost-submitted version
 
