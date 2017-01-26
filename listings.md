@@ -269,7 +269,7 @@ DEADLINE:<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 
 SCHEDULED: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed&gt;</span></span>
 LINK: [VR](http://www.vr.se/forskningsfinansiering/sokabidrag/oversiktutlysningar2017.4.13cbb1ce134a644c01380008823.html)
 
--   [ ]Documents <code>[0/2]</code> 
+-   [ ] Documents <code>[0/2]</code> 
     -   [ ] Research proposal
     -   [ ] Budget
 
