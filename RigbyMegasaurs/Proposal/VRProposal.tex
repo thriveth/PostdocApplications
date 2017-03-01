@@ -1,0 +1,464 @@
+\documentclass[12pt, a4paper]{scrartcl}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+% \usepackage{titlesec}
+% \titleformat{\subsection}[runin]{\sffamily \bfseries \large}{}{}{}[]
+\renewcommand*{\titlepagestyle}{scrheadings}
+\usepackage{aas_macros}
+\usepackage{palatino}
+\usepackage{multicol}
+\usepackage[]{natbib}
+\usepackage[usenames,dvipsnames,svgnames,html]{xcolor}
+\definecolor{theblue}{rgb}{0.12156862745098039, 0.47058823529411764, 0.7058823529411765}
+\usepackage{tikz}
+\bibstyle{apj}
+\usepackage{amssymb}
+\usepackage[utf8x]{inputenc}
+
+\usepackage{setspace}  % Needed for Double Spacing
+\usepackage[english]{babel}
+\usepackage{lipsum}
+
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+\usepackage{hyperref}
+
+%\title{Galaxy evolution through the lens}  % add title here
+%\author{T. Emil Rivera-Thorsen}  % include Author's name here
+\date{}                                           % Activate to display a given date or no date
+
+%%% BEGIN HYPERREF
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	urlcolor=blue,
+	citecolor=black,
+}
+%%% END HYPERREF
+
+\title{Star-forming galaxies across cosmic eras}
+
+%%% BEGIN KOMASCRIPT
+\setkomafont{title}{\sffamily \bfseries \color[HTML]{1F78B4}}
+\setkomafont{captionlabel}{\small \bfseries \sffamily}
+\setkomafont{caption}{\footnotesize}
+\setcapindent{1em}
+\setkomafont{section}{\Large \color[HTML]{1F78B4}}
+\setkomafont{subsection}{\large \itshape \color[HTML]{1F78B4}}
+\setkomafont{subsubsection}{\normalsize }% \color[HTML]{1F78B4}}
+% \setkomafont{subsubsection}{\normalsize \itshape \color[HTML]{1F78B4}}
+% \setkomafont{author}{\small \itshape}
+\setkomafont{pagenumber}{\large \upshape \bfseries \color[HTML]{FFFFFF}}
+\usepackage[automark]{scrpage2}
+\pagestyle{scrheadings}
+\setheadsepline{.0pt}
+\clearscrheadings
+\automark[section]{chapter}
+\ihead{\upshape \color[HTML]{999999} T. Emil Rivera-Thorsen}
+\ohead{\colorbox[HTML]{1F78B4}{\color{white} \pagemark}}
+%\ohead{\textcolor[HTML]{1F78B4}{\pagemark}}
+%\ohead{
+%    \begin{tikzpicture}
+%	    \node[circle,draw,fill=theblue, color=theblue]{\color{white} \pagemark};
+%    \end{tikzpicture}  
+%    }
+\chead{\upshape \color[HTML]{999999} Project description}
+% \cfoot{}
+
+%%% END KOMASCRIPT
+\begin{document}
+
+%\maketitle
+% \noindent {\color[HTML]{1F78B4}\sffamily \bfseries \Large 
+% Research and interests}
+
+\section{Purpose and aims}
+
+We propose a comparative study of rest-frame ultraviolet (UV) and optical
+spectra of a sample of strongly star-forming galaxies in the local Universe and
+a sample of gravitationally lensed galaxies at redshifts $1 \lesssim z \lesssim
+3$, corresponding to a time span from around 15\% to 40\% the age of the
+Universe, the time at which the majority of stars in the Universe were formed. 
+
+For the local Universe, we wish to combine archival far-UV spectra from the
+Hubble Space Telescope (HST) Cosmic Origins Spectrograph (COS), as well as an
+on-going observational campaign with same instrument, and ancillary data from
+the Sloan Digital Sky Survey (SDSS). 
+
+At high redshifts, we have a sample of gravitationally lensed galaxies Observed
+with spectrographs at the Keck and Magellan observatories. Due to the
+gravitational lensing effect, these objects are spatially resolved and have very
+high signal-to-noise ratios, allowing to study them in a level of detail usually
+not attainable at these distances. We propose to give a standardized treatment
+of galaxies at all redshifts, allowing for direct comparative studies of their
+properties and enabling us to identify and characterize evolutionary trends.
+Furthermore, we aim to employ the results of these comparative studies to
+improve the understanding of spectral features which are expected to become
+extremely important tracers of cosmological parameters  in the earliest epochs
+of the Universe with the launch of the future James Webb Space Telescope, 
+scheduled in 2018. 
+
+The project is expected to \textbf{a)} improve our understanding of star
+formation in the Universe and the highly
+complex processes governing gas in star-forming galaxies,
+\textbf{b)} study how these have evolved over cosmological time spans, and
+\textbf{c)} use these insights to help design observation strategies
+for the first galaxies in the Universe with the future James Webb Space
+Telescope (JWST), scheduled for launch in 2018.
+
+
+\section{Survey of the field} 
+
+Some galaxies undergo episodes of extremely high-paced
+star formation, during which their neutral gas is turned into stars at
+rates much higher than in typical, quiescent galaxies. The high star formation
+rates mean that these galaxies also have an extraordinary large population of
+the hottest and most massive, but also very short lived, type O and B stars.
+These stars  radiate a large part of their energy output in the hard ultraviolet
+wavelength ranges. This highly energetic radiation strongly affects the
+surrounding gas, ionizing and heating it, resulting in strong line emission by 
+cascading recombining or decaying, collisionally excited electrons. Radiative
+pressure and stellar wind from the hot stars and kinetic energy from frequent
+supernova blasts stir up the gas, resulting in bulk outflows and strong velocity
+gradients in the neutral gas. The star formation episodes are often triggered by
+merging or interactions with other galaxies of intergalactic gas, which further
+adds to the kinematic complexity of these galaxies. The feedback from young
+stars and supernovae can accelerate substantial bodies of gas to escape
+velocity, 
+
+The spectrum of starburst galaxies is dominated by the smooth continuum emission
+of young, hot type OB stars, with strong emission peaks from atomic and ionic
+lines superimposed onto it.  The intrinsically strongest of these lines by a
+broad margin is Lyman $\alpha$, the transition between the ground state and the
+first excited level of neutral Hydrogen. As much as 2/3 of all ionizing photons,
+and 1/3 of the total ionizing energy, gets reprocessed into this single, narrow
+emission feature \citep{DijkstraRev}. The strength means that this line is often
+detectable in narrow filters when the galaxy is otherwise too faint to be
+observed in stellar continuum or other emission lines, and its location in the
+far-UV range means that it stays within the transparent windows of the Earth's
+atmosphere even at high redshifts. This renders Ly $\alpha$ a crucially
+important tool for detecting galaxies of low stellar mass but strong star
+formation -- which are abundant in the early universe -- and for
+spectroscopically verifying redshifts, which can only be determined very crudely
+by imaging techniques.  In cosmology, this helps more accurately mapping galaxy
+positions, masses, clustering properties, etc.  and thus trace not only galaxy
+evolution, but also cosmological phenomena like structure formation and the
+ionization history of the Universe.
+
+Lyman $\alpha$ is however a  strongly resonant line, interacting strongly with
+the neutral gas in the galaxies where it arises, and is very vulnerable to
+absorption by dust. The strong scattering affects both the observed morphology,
+strength and spectral line profile of the transition in ways depending
+intricately on a multitude of parameters like neutral gas column density,
+clumping, bulk outflows, dust content, kinematic line widths and others
+\citep[e.g.][]{Wofford2013,Atek2008,Atek2009,RiveraThorsen2015,Kunth1998,
+Giavalisco1996,LARSI, LARSII}, and the observed properties in Lyman $\alpha$ are
+statistically almost completely decoupled from its intrinsic properties. For the
+Lyman-$\alpha$ observed to be correctly interpreted -- e.g. regarding how large
+a fraction of galaxies at high redshifts are expected to be detectable in a
+given survey, or what the typical masses of said galaxies are, etc. -- it is
+necessary to know which mechanisms regulate Lyman $\alpha$ radiative transfer
+and escape, and how they interact. Multiple studies have been made to map this
+\citep[e.g][]{Atek2008,Atek2009,Hayes2005,Hayes2007,Hayes2009,Ostlin2009,Kunth1998}.
+The most ambitious such study is the Lyman Alpha Reference Sample
+\citep[LARS, ][]{LARS0,LARSI,LARSII}, a study of a sample of intrinsically Ly
+$\alpha$-bright, strongly star forming galaxies at multiple wavelengths and
+using using multiple instruments, from X-ray observations to 21 cm radio
+interferometry. The aim was to understand these galaxies in depth and create a
+baseline of comparison to observations at high redshifts. For this project, I
+led the production of \cite{RiveraThorsen2015}, in which we analyzed far-UV
+absorption lines in spectra of the sample galaxies obtained with HST-COS. We
+analyzed the connections between physical parameters like line width, outflow
+velocity, column density, and with global parameters determined from imaging
+\citep{LARSII} and radio observations \citep{LARSIII}, and basic properties of
+the observed Lyman $\alpha$ line. 
+
+The galaxies of LARS are however only a fraction of the low redshift
+star-forming galaxies that have been observed with HST-COS. A number of other
+samples, including the references mentioned above, exist, all selected from
+various criteria but with a moderate-to-strong star formation activity,
+totalling around 80 galaxies by out current estimate. A uniform and carefully
+designed analysis of these in the same way we did for \cite{RiveraThorsen2015}
+and \cite{RiveraThorsen2017} is the aim of the first partial project of this
+proposal. We also plan to complement this research with a single-object study of
+unprecedented depth and detail, through data currently being acquired with
+Hubble Space Telescope. What the archival study provides in width, this study
+provides in depth; and together, they could yield very important insights into
+the nature of starburst galaxies and the connections between star formation and
+the gas from which they form.
+
+Galaxies at high redshifts ($z \gtrsim 1$) are generally too distant to be
+resolved even with the best telescopes, or just barely resolvable. However, if
+the line of sight to the galaxies have a massive galaxy or galaxy cluster, the
+gravity of this can bend the light from the background source and act as a
+naturally occurring lens, magnifying the image and amplifying its light by
+orders of magnitude. \textbf{Project Megasaura} is a sample (PI: Dr. Jane Rigby,
+NASA Goddard Space Flight Center) of 17 such gravitationally lensed galaxies at
+redshifts $1 \lesssim z \lessim 3$. Thanks to the strong lensing, these galaxies
+are sufficiently bright that they can be observed in strong continuum, such that
+an absorption line analysis is possible, which does not happen often at these
+distances. Furthermore, the data quality is good enough that spatially resolved
+studies are possible. The spectra cover a rest-frame wavelength range
+containing, but not limited to, the one of most of the local-universe HST-COS
+spectra, containing most of the spectral features of the local galaxies,
+allowing for an apples-to-apples comparison of spectral features between the
+high and low redshift samples. In particular, the SNR is good enough to
+determine systemic zero-point velocities for the galaxies from stellar
+absorption and nebular emission, something which has been a problem for past
+works of this kind \citep[e.g.][]{Jones2013}. Furthermore, the Lyman-$\alpha$
+lines are in some cases well enough resolved that it can be compared to a grid
+of existing semi-analytical outflow and radiative transfer models
+\citep{Schaerer2011}. This is to our knowledge the first time it is possible to
+run analyses designed for the data quality of local-universe objects to be put
+to use on objects at such large distances, and it would be of great interest to
+see how the connections between ISM conditions and Lyman $\alpha$ line
+properties compare to those we know from the local Universe.
+
+The spectra for Project Megasaura also contain a number of near-UV emission
+lines which are not usually observed in local samples due to the wavelength
+coverage of the detector at COS. Most important is the semi-forbidden line
+C\textsc{iii}] $\lambda$ 1909. As surveys push past redshifts $z \gtrsim 7$, we
+look into a time when the first galaxies had not yet fully ionized the
+intergalactic gas in the Universe, and the amounts of neutral gas present in the
+Universe at these early times strongly suppress Ly$\alpha$ which we rely on at
+lower redshifts. Spectroscopic confirmation of redshifts this high must rely on
+detection of alternative rest-frame UV emission lines, and the C\textsc{iii}]
+1909 and its forbidden [C\textsc{iii}] 1907 line are promising candidates
+\citep{Stark2014,Jaskot2016}. The lines are however not universally present in
+star-forming galaxies \citep{Rigby2015}; the line strength seems to be
+correlated with extreme starburst conditions like high ionization, low
+metallicity, and hard UV spectrum \citep{Stark2014,Jaskot2016}. The presence of
+these lines in combination with the ones used for our usual diagnostics will
+allow to establish better connections between these lines and physical
+conditions in the ISM of the galaxies, and establish or describe with better
+precision which biases etc. are related to the detection of these lines: Which
+galaxies are detected in these lines, how strongly, which galaxies and how many
+go undetected, etc. These insights are of great importance for designing
+observation strategies for galaxies at extremely high redshifts with the
+upcoming James Webb Space Telescope, and this research could help put us at the
+forefront of research with this extremely important telescope once it is
+launched in 2018.
+
+
+\section{Project description}
+
+We wish to carry out a project with two main parts: one at low redshifts and one
+at high redshifts. Both aim to understand the intricate and complex mechanisms
+that govern star formation and feedback, and some of their most important
+observational signatures. The datasets available provide us with a unique
+opportunity to analyze these galaxies in a uniform way and thus draw
+evolutionary connections in these mechanisms from times when the universe was
+only around a quarter of its current age, and to the present day. This is
+possible thanks to the natural lensing effect of the gravity of foreground
+galaxies, which enhance and amplify the light of these distant galaxies enough
+to give a much higher data quality than could otherwise have been reached. 
+
+\subsection*{Local universe}
+
+\subsubsection*{Archival starburst galaxies with HST-COS}
+Far-UV spectroscopic observations of star-forming galaxies in the local Universe
+have been done for a number of years now, with various aims, purposes and
+selection criteria\citep[e.g.][]{Heckman2011,Heckman2015,Alexandroff2015,
+Wofford2013,Henry2015, RiveraThorsen2015}. For the first subproject, we wish to 
+obtain archival data from a number of such campaigns including, but not limited
+to, the ones mentioned above, totalling around 70 galaxies, all observed with
+the Hubble Space Telescope Cosmic Origins Spectrograph, along with auxiliary
+data from e.g. SDSS and other large samples where available. We will then analyze
+these spectra in a uniform way, extending the coverage of galaxy types, masses
+etc. of the Lyman Alpha Reference Sample, and dramatically improving the
+statistical significance of the original sample. Besides measuring
+
+\subsubsection*{SAFE: Star formation, lyman-Alpha, and Feedback in Eso-338}
+
+Complementary to the statistical sample, this subproject takes the opposite
+route by studying one single target in a detail unprecedented in the far
+Ultraviolet wavelength range. 
+SAFE is an ongoing campaign led by Prof. Östlin at Stockholm University, using
+HST-COS to take far-UV spectra of a particularly interesting galaxy, known as
+ESO 338-IG04, placing the circular aperture of the Cosmic Origins Spectrograph
+on board the Hubble Space Telescope on 12 different locations of the galaxy,
+covering both luminous regions of strong star formation, and the faint and
+diffuse gas in the outskirts of the galaxy, allowing to perform a tomographic
+study of its interstellar and circumgalactic gas. The method is akin to Integral
+Field Spectroscopy, in which a spectrum is acquired for each pixel in an image
+grid; but the far-UV wavelengths cannot penetrate the Earth's atmosphere, and no
+spaceborne integral field units exist. Combined with results from previous
+observations with e.g. HST imaging \citep{Hayes2009,Ostlin2009, Ostlin1998}, The
+ESO X-Shooter optical spectrograph \cite[Rivera-Thorsen et al., submitted to
+ApJ]{Guseva2012,Sandberg2013}, and the MUSE optical integral field spectrograph
+\citep{Bik2015}, these observations are expected to yield important new insights
+about stellar population, ISM distribution and dynamics, and Lyman $\alpha$
+radiation transfer. 
+
+\subsection*{High-redshift universe}
+
+\subsubsection*{Project Megasaura} 
+
+Project Megasaura is a sample of 17 star forming galaxies at redshifts between
+1 and 3, corresponding to times when the Universe was between 15\% and 40\% of
+its current age. These galaxies are strongly lensed by foreground galaxies or
+clusters. The galaxies have been observed in the optical and infrared with
+Magellan/MagE and Keck/ESI, and imaged by HST and Spitzer. The strong lensing
+gives an unusually fine signal-to-noise, allowing for detailed studies in both
+emission and absorption.  In itself, the sample is a unique opportunity to study
+star-forming galaxies in the epoch where the majority of stars in the Universe
+were formed, including stellar population, ionization conditions, electron
+temperatures, detailed outflows, chemical enrichment, and more. However,
+together with a local sample, it also holds the promise of disentangling
+intrinsic, evolutionary changes over cosmic time from changes in cosmic
+environment, and help understand star formation, galaxy evolution, and
+Ly$\alpha$ transfer and escape both locally and in the early Universe.
+Besides a comparative study of these properties at high and low redshifts, we
+also plan to study in details some of the near-UV emission lines present in the
+Megasaura datasets. As mentioned above, these lines are seen as promising tools
+for observations at extremely high redshifts with JWST, and the presence of
+these lines together with the ones used for our local-Universe diagnostics gives
+us a unique opportunity gain insights about the physics governing the observable
+fingerprints of these lines and thus help design observational strategies for
+observing the first galaxies once JWST has been launched.
+
+\subsection*{Preliminary timeline}
+
+\textbf{\sffamily Months 1 -- 6} Local star-forming galaxies. This project is
+fairly straightforward regarding methodology and well-defined in scope, and much
+of the machinery for the analysis is already in place from earlier work
+\citep{RiveraThorsen2015,RiveraThorsen2015}. However, some measure of manual
+work is required, which will of course mean an increase in time requirements
+with around 80 objects expected to be suitable for the project.\\
+\textbf{\sffamily Months 7 -- 16} Megasaura I. Comparative study of lensed galaxies
+		with the local galaxies studied in the first paper.This paper
+		will present the sample and characteristics that are directly
+		comparable to the low redshift sample like  characteristics like e.g.
+		stellar population, gas and dust content, temperature, heavy
+		element enrichment, characterization of gas in- or outflows
+		etc., analogous but not limited to what is listed in Tables 2
+		and 3 of \cite{LARSI} and parts of what is presented in
+		\cite{RiveraThorsen2015}. Like the previous paper, we expect 
+		there to be a comparatively large amount of work performing a
+		large number of diagnostics and characterizations for the sample
+		galaxies. \\
+\textbf{\sffamily Months 17 -- 24} Megasaura II. In this project, we plan to focus 
+		on the near-UV emission lines of the lensed galaxies. 
+		Star-forming galaxies are not well studied in these lines; at 
+		low redshifts they fall in a range of poor detector coverage of 
+		the HST/COS; and at higher redshifts, they are often too weak 
+		to be observed with current instruments. With the coming launch 
+		of the JWST, however, these lines are going to play an important 
+		part in pushing the limits for high-$z$ observations. 
+		High-redshift galaxies are typically detected by their Lyman α 
+		emission, but at redshifts beyond $z \sim 7$, the neutral fraction of
+		the IGM is high enough to effectively quench the majority of 
+		Ly$\alpha$ radiation.  The JWST will on the other hand be able 
+		to reach much deeper and detect these metallic rest frame NUV 
+		lines, like e.g. Mg II, C III], and Fe II. The combined findings 
+		of Megasaura I and the Local HST Legacy Starbursts will provide 
+		the foundation to better understand and interpret these lines.\\
+\textbf{\sffamily Months 25 -- 30 (?)} SAFE I. SAFE contains enough data that two
+		years' activity could probably be dedicated to analyzing this
+		dataset alone. How much time should be dedicated to this depends
+		on the initial results of data analysis, weighed up against
+		which questions arise during the work on the two Project 
+		Megasaura papers. A short version of a SAFE paper should at
+		least consist of a mapping of the neutral and ionized ISM phases
+		along the line of sight towards the clusters in the relevant
+		pointings, a characterization of Lyman $\alpha$ in all
+		COS pointings. This will provide a detailed mapping of
+		properties directly comparable to, but more detailed than, the 
+		ones known from the Lyman Alpha Reference Sample and from the 
+		first projects of this proposal, and could help discern various
+		possible explanations for e.g. observed Lyman $\alpha$. 
+		A further elaboration on this work could either be in
+		collaboration with modeling experts  \citep{Schaerer2011,
+			Laursen2009, Laursen2009b, Gronke2016, Verhamme2006, Verhamme2008}
+		or, if the data quality of the Megasaura galaxies permits it,
+		comparative spatially-resolved studies based on these and SAFE,
+		like an extended version of the work presented by
+		\cite{Bordoloi2016}
+
+
+\section{Significance}
+
+This is to our knowledge the first time it will be possible to bring high
+quality diagnostics designed for galaxies in the local Universe to use at such
+high redshifts, which can yield important insights about the star formation
+history  and galaxy evolution of the Universe.
+
+The proposed project will also help to better understand the nature of star
+forming galaxies in the local Universe by dramatically improving the sample size
+and statistical robustness of existing studies like e.g.
+\cite{RiveraThorsen2015}, and improve the coverage of galaxy types in terms of
+e.g. stellar population, mass, ionization, metallicity, etc.
+
+The SAFE sub-project will bring unprecedented detail in the study of the Lyman
+$\alpha$ line and how it is influenced by gas properties in the emitting galaxy,
+which in turn is important to our interpretation and understanding to large
+amounts of cosmological data based in this line.
+
+The direct comparison between observational signatures at high and low redshifts
+will allow us to calibrate our understanding of near-UV emission lines which
+will play a crucial role in future studies pushing the frontier of how far and
+deep into the early Universe we can see with the launch of the James Webb Space
+Telescope.
+
+
+\section{Preliminary results}
+
+The local starbursts subproject, which is planned to be the first step, builds
+on analysis done and developed for the Lyman Alpha Reference Sample
+\citep{RiveraThorsen2015}, but aims to extend the statistical robustness and
+parameter space coverage of this work. This means that the methodology is tested
+and known to work, and much of the machinery for this analysis is in place. 
+This machinery will also be used for parts of the SAFE project and, in a shape
+modified to be appropriate for the different data format etc., also for one part
+of Project Megasaura. Much of the rest of the work will rely on well known
+astrophysical diagnostics.
+
+
+\section{Results}
+
+With this project, we expect to gain important understanding of the conditions
+under which the majority of stars in the Universe have formed. 
+
+We expect to gain new insights about both local an distant galaxies
+undergoing episodes of intense star formation, and how they influence and are
+influenced by their environment, and to draw evolutionary connections from a
+uniform analysis of galaxies at different redshifts.
+
+We expect to get improved knowledge of connections between Lyman $\alpha$ escape
+and a set of key observables in the local universe, how these change under
+varying circumstances, and how they compare to the situations in the early,
+high-redshift universe.
+
+We expect to be able to answer at least a subset of these questions for galaxies
+at larger distances and earlier phases in Cosmic history, and look at how these
+connections and mechanisms have evolved in time. 
+
+We expect to be able to draw connections between astrophysical properties of the
+galaxies and the observational signatures of key emission features in the
+near-UV, which are expected to be crucial for galaxy studies at extremely high
+redshifts which will be made possible by the James Webb Space Telescope, and we
+expect this to bring valuable contributions to the design of observation
+strategies to look for the first galaxies in the Universe with JWST.
+
+
+% \section*{Independent line of research}
+% 
+% This project is an individual project, conducted under the mentorship of
+% senior researchers at Stockholm University and Goddard Space Flight Center. The
+% data used is archival data (local starbusts project), data acquired by Dr.
+% Rigby (project Megasaurs), or Prof. Östlin (SAFE), but the the analysis will be
+% carried out and publications led by the applicant.
+
+\newline
+\vspace{0.5em}
+
+\bibliographystyle{aasjournal}
+\begin{scriptsize}
+	\begin{multicols}{2}
+	\bibliography{thesis}
+	\end{multicols}
+\end{scriptsize}
+
+\end{document}  

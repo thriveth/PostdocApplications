@@ -1,0 +1,81 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Basu-Zych} {et~al.}(2016){Basu-Zych}, {Lehmer}, {Fragos},
+  {Hornschemeier}, {Yukita}, {Zezas}, \& {Ptak}}]{BasuZych2016}
+{Basu-Zych}, A.~R., {Lehmer}, B., {Fragos}, T., {et~al.} 2016, \apj, 818, 140
+
+\bibitem[{{Grimes} {et~al.}(2007){Grimes}, {Heckman}, {Strickland}, {Dixon},
+  {Sembach}, {Overzier}, {Hoopes}, {Aloisi}, \& {Ptak}}]{Grimes2007}
+{Grimes}, J.~P., {Heckman}, T., {Strickland}, D., {et~al.} 2007, \apj, 668, 891
+
+\bibitem[{{Hayes} {et~al.}(2014){Hayes}, {{\"O}stlin}, {Duval}, {Sandberg},
+  {Guaita}, {Melinder}, {Adamo}, {Schaerer}, {Verhamme}, {Orlitov{\'a}},
+  {Mas-Hesse}, {Cannon}, {Atek}, {Kunth}, {Laursen}, {Ot{\'{\i}}-Floranes},
+  {Pardy}, {Rivera-Thorsen}, \& {Herenz}}]{LARSII}
+{Hayes}, M., {{\"O}stlin}, G., {Duval}, F., {et~al.} 2014, \apj, 782, 6
+
+\bibitem[{{Jones} {et~al.}(2013){Jones}, {Ellis}, {Schenker}, \&
+  {Stark}}]{Jones2013}
+{Jones}, T.~A., {Ellis}, R.~S., {Schenker}, M.~A., \& {Stark}, D.~P. 2013,
+  \apj, 779, 52
+
+\bibitem[{{{\"O}stlin} {et~al.}(2014){{\"O}stlin}, {Hayes}, {Duval},
+  {Sandberg}, {Guaita}, {Melinder}, {Adamo}, {Schaerer}, {Verhamme},
+  {Orlitov{\'a}}, {Mas-Hesse}, {Cannon}, {Atek}, {Kunth}, {Laursen},
+  {Ot{\'{\i}}-Floranes}, {Pardy}, {Rivera-Thorsen}, \& {Herenz}}]{LARSI}
+{{\"O}stlin}, G., {Hayes}, M., {Duval}, F., {et~al.} 2014, \apj
+
+\bibitem[{{Pardy} {et~al.}(2014){Pardy}, {Cannon}, {{\"O}stlin}, {Hayes},
+  {Rivera-Thorsen}, {Sandberg}, {Adamo}, {Freeland}, {Herenz}, {Guaita},
+  {Kunth}, {Laursen}, {Mas-Hesse}, {Melinder}, {Orlitov{\'a}},
+  {Ot{\'{\i}}-Floranes}, {Puschnig}, {Schaerer}, \& {Verhamme}}]{LARSIII}
+{Pardy}, S.~A., {Cannon}, J.~M., {{\"O}stlin}, G., {et~al.} 2014, \apj, 794,
+  101
+
+\bibitem[{{Pettini} {et~al.}(2002){Pettini}, {Rix}, {Steidel}, {Adelberger},
+  {Hunt}, \& {Shapley}}]{Pettini2002}
+{Pettini}, M., {Rix}, S.~A., {Steidel}, C.~C., {et~al.} 2002, \apj, 569, 742
+
+\bibitem[{{Prestwich} {et~al.}(2015){Prestwich}, {Jackson}, {Kaaret}, {Brorby},
+  {Roberts}, {Saar}, \& {Yukita}}]{Prestwich2015}
+{Prestwich}, A.~H., {Jackson}, F., {Kaaret}, P., {et~al.} 2015, \apj, 812, 166
+
+\bibitem[{{Quider} {et~al.}(2009){Quider}, {Pettini}, {Shapley}, \&
+  {Steidel}}]{Quider2009}
+{Quider}, A.~M., {Pettini}, M., {Shapley}, A.~E., \& {Steidel}, C.~C. 2009,
+  \mnras, 398, 1263
+
+\bibitem[{{Rivera-Thorsen} {et~al.}(2015){Rivera-Thorsen}, {Hayes},
+  {{\"O}stlin}, {Duval}, {Orlitov{\'a}}, {Verhamme}, {Mas-Hesse}, {Schaerer},
+  {Cannon}, {Ot{\'{\i}}-Floranes}, {Sandberg}, {Guaita}, {Adamo}, {Atek},
+  {Herenz}, {Kunth}, {Laursen}, \& {Melinder}}]{RiveraThorsen2015}
+{Rivera-Thorsen}, T.~E., {Hayes}, M., {{\"O}stlin}, G., {et~al.} 2015, \apj,
+  805, 14
+
+\bibitem[{{Sandberg} {et~al.}(2015){Sandberg}, {Guaita}, {{\"O}stlin}, {Hayes},
+  \& {Kiaeerad}}]{Sandberg2015}
+{Sandberg}, A., {Guaita}, L., {{\"O}stlin}, G., {Hayes}, M., \& {Kiaeerad}, F.
+  2015, \aap, 580, A91
+
+\bibitem[{{Sandberg} {et~al.}(2013){Sandberg}, {{\"O}stlin}, {Hayes}, {Fathi},
+  {Schaerer}, {Mas-Hesse}, \& {Rivera-Thorsen}}]{Sandberg2013}
+{Sandberg}, A., {{\"O}stlin}, G., {Hayes}, M., {et~al.} 2013, \aap, 552, A95
+
+\bibitem[{{Savage} \& {Sembach}(1991)}]{Savage1991}
+{Savage}, B.~D., \& {Sembach}, K.~R. 1991, \apj, 379, 245
+
+\bibitem[{{Stritzinger} {et~al.}(2014){Stritzinger}, {Hsiao}, {Valenti},
+  {Taddia}, {Rivera-Thorsen}, {Leloudas}, {Maeda}, {Pastorello}, {Phillips},
+  {Pignata}, {Baron}, {Burns}, {Contreras}, {Folatelli}, {Hamuy},
+  {H{\"o}flich}, {Morrell}, {Prieto}, {Benetti}, {Campillay}, {Haislip},
+  {LaClutze}, {Moore}, \& {Reichart}}]{Stritzinger2014}
+{Stritzinger}, M.~D., {Hsiao}, E., {Valenti}, S., {et~al.} 2014, \aap, 561,
+  A146
+
+\bibitem[{{Verhamme} {et~al.}(2015){Verhamme}, {Orlitov{\'a}}, {Schaerer}, \&
+  {Hayes}}]{Verhamme2015}
+{Verhamme}, A., {Orlitov{\'a}}, I., {Schaerer}, D., \& {Hayes}, M. 2015, \aap,
+  578, A7
+
+\end{thebibliography}

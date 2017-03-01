@@ -1,0 +1,103 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Alexandroff} {et~al.}(2015){Alexandroff}, {Heckman}, {Borthakur},
+  {Overzier}, \& {Leitherer}}]{Alexandroff2015}
+{Alexandroff}, R.~M., {Heckman}, T.~M., {Borthakur}, S., {Overzier}, R., \&
+  {Leitherer}, C. 2015, \apj, 810, 104
+
+\bibitem[{{Bayliss} {et~al.}(2014){Bayliss}, {Rigby}, {Sharon}, {Wuyts},
+  {Florian}, {Gladders}, {Johnson}, \& {Oguri}}]{Bayliss2014}
+{Bayliss}, M.~B., {Rigby}, J.~R., {Sharon}, K., {et~al.} 2014, \apj, 790, 144
+
+\bibitem[{{Bordoloi} {et~al.}(2016){Bordoloi}, {Rigby}, {Tumlinson}, {Bayliss},
+  {Sharon}, {Gladders}, \& {Wuyts}}]{Bordoloi2016}
+{Bordoloi}, R., {Rigby}, J.~R., {Tumlinson}, J., {et~al.} 2016, \mnras, 458,
+  1891
+
+\bibitem[{{Ferland} {et~al.}(2013){Ferland}, {Porter}, {van Hoof}, {Williams},
+  {Abel}, {Lykins}, {Shaw}, {Henney}, \& {Stancil}}]{Ferland2013}
+{Ferland}, G.~J., {Porter}, R.~L., {van Hoof}, P.~A.~M., {et~al.} 2013, \rmxaa,
+  49, 137
+
+\bibitem[{{Hayes} {et~al.}(2014){Hayes}, {{\"O}stlin}, {Duval}, {Sandberg},
+  {Guaita}, {Melinder}, {Adamo}, {Schaerer}, {Verhamme}, {Orlitov{\'a}},
+  {Mas-Hesse}, {Cannon}, {Atek}, {Kunth}, {Laursen}, {Ot{\'{\i}}-Floranes},
+  {Pardy}, {Rivera-Thorsen}, \& {Herenz}}]{LARSII}
+{Hayes}, M., {{\"O}stlin}, G., {Duval}, F., {et~al.} 2014, \apj, 782, 6
+
+\bibitem[{{Heckman} {et~al.}(2015){Heckman}, {Alexandroff}, {Borthakur},
+  {Overzier}, \& {Leitherer}}]{Heckman2015}
+{Heckman}, T.~M., {Alexandroff}, R.~M., {Borthakur}, S., {Overzier}, R., \&
+  {Leitherer}, C. 2015, \apj, 809, 147
+
+\bibitem[{{Heckman} {et~al.}(2011){Heckman}, {Borthakur}, {Overzier},
+  {Kauffmann}, {Basu-Zych}, {Leitherer}, {Sembach}, {Martin}, {Rich},
+  {Schiminovich}, \& {Seibert}}]{Heckman2011}
+{Heckman}, T.~M., {Borthakur}, S., {Overzier}, R., {et~al.} 2011, \apj, 730, 5
+
+\bibitem[{{Henry} {et~al.}(2015){Henry}, {Scarlata}, {Martin}, \&
+  {Erb}}]{Henry2015}
+{Henry}, A., {Scarlata}, C., {Martin}, C.~L., \& {Erb}, D. 2015, \apj, 809, 19
+
+\bibitem[{{Jaskot} \& {Oey}(2014)}]{JaskotOey}
+{Jaskot}, A.~E., \& {Oey}, M.~S. 2014, ArXiv e-prints, arXiv:1406.4413
+
+\bibitem[{{Jaskot} \& {Ravindranath}(2016)}]{Jaskot2016}
+{Jaskot}, A.~E., \& {Ravindranath}, S. 2016, \apj, 833, 136
+
+\bibitem[{{Jones} {et~al.}(2013){Jones}, {Ellis}, {Schenker}, \&
+  {Stark}}]{Jones2013}
+{Jones}, T.~A., {Ellis}, R.~S., {Schenker}, M.~A., \& {Stark}, D.~P. 2013,
+  \apj, 779, 52
+
+\bibitem[{{Leitherer} {et~al.}(2014){Leitherer}, {Ekstr{\"o}m}, {Meynet},
+  {Schaerer}, {Agienko}, \& {Levesque}}]{Leitherer2014}
+{Leitherer}, C., {Ekstr{\"o}m}, S., {Meynet}, G., {et~al.} 2014, \apjs, 212, 14
+
+\bibitem[{{Osterbrock} \& {Ferland}(2006)}]{Osterbrock}
+{Osterbrock}, D.~E., \& {Ferland}, G.~J. 2006, {Astrophysics of gaseous nebulae
+  and active galactic nuclei}
+
+\bibitem[{{{\"O}stlin} {et~al.}(2014){{\"O}stlin}, {Hayes}, {Duval},
+  {Sandberg}, {Guaita}, {Melinder}, {Adamo}, {Schaerer}, {Verhamme},
+  {Orlitov{\'a}}, {Mas-Hesse}, {Cannon}, {Atek}, {Kunth}, {Laursen},
+  {Ot{\'{\i}}-Floranes}, {Pardy}, {Rivera-Thorsen}, \& {Herenz}}]{LARSI}
+{{\"O}stlin}, G., {Hayes}, M., {Duval}, F., {et~al.} 2014, \apj
+
+\bibitem[{{Rigby} {et~al.}(2014){Rigby}, {Bayliss}, {Gladders}, {Sharon},
+  {Wuyts}, \& {Dahle}}]{Rigby2014}
+{Rigby}, J.~R., {Bayliss}, M.~B., {Gladders}, M.~D., {et~al.} 2014, \apj, 790,
+  44
+
+\bibitem[{{Rigby} {et~al.}(2015){Rigby}, {Bayliss}, {Gladders}, {Sharon},
+  {Wuyts}, {Dahle}, {Johnson}, \& {Pe{\~n}a-Guerrero}}]{Rigby2015}
+---. 2015, \apjl, 814, L6
+
+\bibitem[{{Rivera-Thorsen} {et~al.}(2017){Rivera-Thorsen}, {{\"O}stlin},
+  {Hayes}, \& {Puschnig}}]{RiveraThorsen2017}
+{Rivera-Thorsen}, T.~E., {{\"O}stlin}, G., {Hayes}, M., \& {Puschnig}, J. 2017,
+  Accepted for publication in \apj, arXiv:1701.08024
+
+\bibitem[{{Rivera-Thorsen} {et~al.}(2015){Rivera-Thorsen}, {Hayes},
+  {{\"O}stlin}, {Duval}, {Orlitov{\'a}}, {Verhamme}, {Mas-Hesse}, {Schaerer},
+  {Cannon}, {Ot{\'{\i}}-Floranes}, {Sandberg}, {Guaita}, {Adamo}, {Atek},
+  {Herenz}, {Kunth}, {Laursen}, \& {Melinder}}]{RiveraThorsen2015}
+{Rivera-Thorsen}, T.~E., {Hayes}, M., {{\"O}stlin}, G., {et~al.} 2015, \apj,
+  805, 14
+
+\bibitem[{{Schaerer} {et~al.}(2011){Schaerer}, {Hayes}, {Verhamme}, \&
+  {Teyssier}}]{Schaerer2011}
+{Schaerer}, D., {Hayes}, M., {Verhamme}, A., \& {Teyssier}, R. 2011, \aap, 531,
+  A12
+
+\bibitem[{{Stark} {et~al.}(2014){Stark}, {Richard}, {Siana}, {Charlot},
+  {Freeman}, {Gutkin}, {Wofford}, {Robertson}, {Amanullah}, {Watson}, \&
+  {Milvang-Jensen}}]{Stark2014}
+{Stark}, D.~P., {Richard}, J., {Siana}, B., {et~al.} 2014, \mnras, 445, 3200
+
+\bibitem[{{Wofford} {et~al.}(2013){Wofford}, {Leitherer}, \&
+  {Salzer}}]{Wofford2013}
+{Wofford}, A., {Leitherer}, C., \& {Salzer}, J. 2013, \apj, 765, 118
+
+\end{thebibliography}

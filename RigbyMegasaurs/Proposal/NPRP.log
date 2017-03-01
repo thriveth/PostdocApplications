@@ -1,0 +1,689 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.9)  1 MAR 2017 05:17
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**NPRP.tex
+(./NPRP.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsart.cls
+Document Class: amsart 2015/03/04 v2.20.2
+\linespacing=\dimen102
+\normalparindent=\dimen103
+\normaltopskip=\skip41
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen104
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks15
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 388.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+\copyins=\insert199
+\abstractbox=\box28
+\listisep=\skip45
+\c@part=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\captionindent=\dimen113
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks26
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+ (/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count102
+))
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count103
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count104
+\U@D=\dimen124
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count105
+) (./NPRP.aux)
+\openout1 = `NPRP.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Try loading font information for U+msa on input line 21.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=1.44614pt
+* \evensidemargin=38.30426pt
+* \topmargin=1.12738pt
+* \headheight=8.0pt
+* \headsep=14.0pt
+* \topskip=10.0pt
+* \footskip=12.0pt
+* \marginparwidth=90.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 11.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen125
+\scratchbox=\box29
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen126
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks28
+)
+
+Package natbib Warning: Citation `Heckman2011' on page 1 undefined on input line 51.
+
+
+Package natbib Warning: Citation `Heckman2015' on page 1 undefined on input line 51.
+
+
+Package natbib Warning: Citation `Alexandroff2015' on page 1 undefined on input line 51.
+
+
+Package natbib Warning: Citation `Henry2015' on page 1 undefined on input line 51.
+
+
+Package natbib Warning: Citation `Wofford2013' on page 1 undefined on input line 51.
+
+
+Package natbib Warning: Citation `Heckman2011' on page 1 undefined on input line 56.
+
+
+Package natbib Warning: Citation `Alexandroff2015' on page 1 undefined on input line 56.
+
+
+Package natbib Warning: Citation `Wofford2013' on page 1 undefined on input line 56.
+
+
+Package natbib Warning: Citation `Henry2015' on page 1 undefined on input line 56.
+
+
+Package natbib Warning: Citation `JaskotOey' on page 1 undefined on input line 56.
+
+
+Package natbib Warning: Citation `LARSI' on page 1 undefined on input line 59.
+
+
+Package natbib Warning: Citation `LARSII' on page 1 undefined on input line 59.
+
+
+Package natbib Warning: Citation `RiveraThorsen2015' on page 1 undefined on input line 60.
+
+
+Package natbib Warning: Citation `RiveraThorsen2017' on page 1 undefined on input line 60.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+
+Package natbib Warning: Citation `Stark2014' on page 3 undefined on input line 92.
+
+
+Package natbib Warning: Citation `Rigby2015' on page 3 undefined on input line 92.
+
+
+Package natbib Warning: Citation `Jaskot2016' on page 3 undefined on input line 92.
+
+[3] <MegasaurExample.png, id=20, 482.80376pt x 365.365pt>
+File: MegasaurExample.png Graphic file (type png)
+ <use MegasaurExample.png>
+Package pdftex.def Info: MegasaurExample.png used on input line 123.
+(pdftex.def)             Requested size: 107.50114pt x 81.3506pt.
+ <SNRs.png, id=21, 677.53125pt x 382.42876pt>
+File: SNRs.png Graphic file (type png)
+ <use SNRs.png>
+Package pdftex.def Info: SNRs.png used on input line 124.
+(pdftex.def)             Requested size: 163.40385pt x 92.23409pt.
+ <Figures/LARS_SNRs_examples.pdf, id=22, 505.1673pt x 287.6346pt>
+File: Figures/LARS_SNRs_examples.pdf Graphic file (type pdf)
+ <use Figures/LARS_SNRs_examples.pdf>
+Package pdftex.def Info: Figures/LARS_SNRs_examples.pdf used on input line 125.
+(pdftex.def)             Requested size: 150.50424pt x 85.69414pt.
+
+
+Package natbib Warning: Citation `RiveraThorsen2015' on page 4 undefined on input line 137.
+
+
+Package natbib Warning: Citation `Jones2013' on page 4 undefined on input line 139.
+
+
+Package natbib Warning: Citation `RiveraThorsen2015' on page 4 undefined on input line 142.
+
+
+Package natbib Warning: Citation `RiveraThorsen2017' on page 4 undefined on input line 142.
+
+
+Overfull \hbox (1.71335pt too wide) in paragraph at lines 134--145
+[]\OT1/cmr/m/n/12 Fig. 1[] shows an ex-am-ple find-ing chart of MagE ob-ser-va-tions of one of the Megasaura
+ []
+
+
+Package natbib Warning: Citation `Bayliss2014' on page 4 undefined on input line 148.
+
+
+Package natbib Warning: Citation `Bordoloi2016' on page 4 undefined on input line 148.
+
+
+Package natbib Warning: Citation `Bayliss2014' on page 4 undefined on input line 148.
+
+
+Package natbib Warning: Citation `Jones2013' on page 4 undefined on input line 152.
+
+
+Package natbib Warning: Citation `Rigby2014' on page 4 undefined on input line 152.
+
+
+Package natbib Warning: Citation `Rigby2015' on page 4 undefined on input line 152.
+
+
+Package natbib Warning: Citation `Bayliss2014' on page 4 undefined on input line 152.
+
+
+Package natbib Warning: Citation `Bordoloi2016' on page 4 undefined on input line 152.
+
+
+Package natbib Warning: Citation `Jones2013' on page 4 undefined on input line 152.
+
+
+Package natbib Warning: Citation `Rigby2014' on page 4 undefined on input line 158.
+
+
+Package natbib Warning: Citation `Rigby2015' on page 4 undefined on input line 158.
+
+
+Package natbib Warning: Citation `RiveraThorsen2015' on page 4 undefined on input line 163.
+
+[4 <./MegasaurExample.png> <./SNRs.png> <./Figures/LARS_SNRs_examples.pdf>] <LarsResults.png, id=38, 1650.165pt x 529.98pt>
+File: LarsResults.png Graphic file (type png)
+ <use LarsResults.png>
+Package pdftex.def Info: LarsResults.png used on input line 184.
+(pdftex.def)             Requested size: 430.00462pt x 138.09883pt.
+
+
+LaTeX Warning: Reference `sec:weird' on page 5 undefined on input line 192.
+
+
+Package natbib Warning: Citation `Schaerer2011' on page 5 undefined on input line 192.
+
+
+Package natbib Warning: Citation `LARSI' on page 5 undefined on input line 192.
+
+
+Underfull \vbox (badness 2790) has occurred while \output is active []
+
+ [5] [6 <./LarsResults.png>]
+
+Package natbib Warning: Citation `Bayliss2014' on page 7 undefined on input line 234.
+
+<SAFEpointings.png, id=46, 756.8275pt x 604.2575pt>
+File: SAFEpointings.png Graphic file (type png)
+ <use SAFEpointings.png>
+Package pdftex.def Info: SAFEpointings.png used on input line 240.
+(pdftex.def)             Requested size: 252.94499pt x 201.95036pt.
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no – in font cmr12!
+ [7]
+
+Package natbib Warning: Citation `Leitherer2014' on page 8 undefined on input line 263.
+
+
+Package natbib Warning: Citation `Ferland2013' on page 8 undefined on input line 264.
+
+
+Package natbib Warning: Citation `Osterbrock' on page 8 undefined on input line 269.
+
+
+Package natbib Warning: Citation `YMarino2013' on page 8 undefined on input line 270.
+
+[8 <./SAFEpointings.png>]
+
+Package natbib Warning: Citation `Schaerer2011' on page 9 undefined on input line 295.
+
+
+Package natbib Warning: Citation `LARSI' on page 9 undefined on input line 304.
+
+[9]
+
+Package natbib Warning: Citation `Bordoloi2016' on page 10 undefined on input line 316.
+
+
+Package natbib Warning: Citation `Schaerer2011' on page 10 undefined on input line 321.
+
+
+Package natbib Warning: Citation `Rigby2014' on page 10 undefined on input line 326.
+
+
+Package natbib Warning: Citation `Rigby2015' on page 10 undefined on input line 335.
+
+
+Package natbib Warning: Citation `Jaskot2016' on page 10 undefined on input line 336.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Overfull \hbox (1.02136pt too wide) in paragraph at lines 359--377
+[]\OT1/cmr/m/n/12 is 18
+ []
+
+
+Underfull \vbox (badness 1102) has occurred while \output is active []
+
+ [11]
+Missing character: There is no Î in font cmr12!
+Missing character: There is no ± in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12] [13] (./NPRP.bbl
+./NPRP.bbl:7: Undefined control sequence.
+l.7   {Leitherer}, C. 2015, \apj
+                                , 810, 104
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:11: Undefined control sequence.
+l.11 ..., J.~R., {Sharon}, K., {et~al.} 2014, \apj
+                                                  , 790, 144
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:15: Undefined control sequence.
+l.15 ...R., {Tumlinson}, J., {et~al.} 2016, \mnras
+                                                  , 458,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:20: Undefined control sequence.
+l.20 ...van Hoof}, P.~A.~M., {et~al.} 2013, \rmxaa
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:27: Undefined control sequence.
+l.27 ...lin}, G., {Duval}, F., {et~al.} 2014, \apj
+                                                  , 782, 6
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:32: Undefined control sequence.
+l.32   {Leitherer}, C. 2015, \apj
+                                 , 809, 147
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:37: Undefined control sequence.
+l.37 ...}, S., {Overzier}, R., {et~al.} 2011, \apj
+                                                  , 730, 5
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:41: Undefined control sequence.
+l.41 ..., {Martin}, C.~L., \& {Erb}, D. 2015, \apj
+                                                  , 809, 19
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:47: Undefined control sequence.
+l.47 ...}, A.~E., \& {Ravindranath}, S. 2016, \apj
+                                                  , 833, 136
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[14]
+./NPRP.bbl:52: Undefined control sequence.
+l.52   \apj
+           , 779, 52
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:56: Undefined control sequence.
+l.56 ...m}, S., {Meynet}, G., {et~al.} 2014, \apjs
+                                                  , 212, 14
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:66: Undefined control sequence.
+l.66 ...yes}, M., {Duval}, F., {et~al.} 2014, \apj
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:70: Undefined control sequence.
+l.70 ...B., {Gladders}, M.~D., {et~al.} 2014, \apj
+                                                  , 790,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:75: Undefined control sequence.
+l.75 ---. 2015, \apjl
+                     , 814, L6
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:80: Undefined control sequence.
+l.80   Accepted for publication in \apj
+                                       , arXiv:1701.08024
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:86: Undefined control sequence.
+l.86 ... M., {{\"O}stlin}, G., {et~al.} 2015, \apj
+                                                  ,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:91: Undefined control sequence.
+l.91 ...erhamme}, A., \& {Teyssier}, R. 2011, \aap
+                                                  , 531,
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:97: Undefined control sequence.
+l.97 ...d}, J., {Siana}, B., {et~al.} 2014, \mnras
+                                                  , 445, 3200
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./NPRP.bbl:101: Undefined control sequence.
+l.101 ...eitherer}, C., \& {Salzer}, J. 2013, \apj
+                                                  , 765, 118
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+
+Package natbib Warning: There were undefined citations.
+
+[15] (./NPRP.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4392 strings out of 493029
+ 56977 string characters out of 6136235
+ 230225 words of memory out of 5000000
+ 7695 multiletter control sequences out of 15000+600000
+ 11708 words of font info for 46 fonts, out of 8000000 for 9000
+ 1302 hyphenation exceptions out of 8191
+ 42i,6n,32p,678b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on NPRP.pdf (15 pages, 979686 bytes).
+PDF statistics:
+ 110 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

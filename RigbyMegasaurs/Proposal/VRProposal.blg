@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: VRProposal.aux
+The style file: aasjournal.bst
+Database file #1: thesis.bib
+You're missing a field name---line 2012 of file thesis.bib
+ : 
+ : %    author = {{Mas-Hesse}, J.~M. and {Kunth}, D. and {Tenorio-Tagle}, G. and
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 35 entries,
+            3183 wiz_defined-function locations,
+            935 strings with 14392 characters,
+and the built_in function-call counts, 18589 in all, are:
+= -- 1498
+> -- 1573
+< -- 3
++ -- 536
+- -- 595
+* -- 1691
+:= -- 3567
+add.period$ -- 35
+call.type$ -- 35
+change.case$ -- 275
+chr.to.int$ -- 34
+cite$ -- 35
+duplicate$ -- 664
+empty$ -- 967
+format.name$ -- 614
+if$ -- 3600
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 35
+newline$ -- 109
+num.names$ -- 140
+pop$ -- 292
+preamble$ -- 1
+purify$ -- 275
+quote$ -- 0
+skip$ -- 528
+stack$ -- 0
+substring$ -- 685
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 315
+warning$ -- 0
+while$ -- 131
+width$ -- 0
+write$ -- 352
+(There was 1 error message)
