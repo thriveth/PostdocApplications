@@ -1,0 +1,817 @@
+#+BEGIN_PREAMBLE
+#+TODO: TODO(t) PROGRESS(p) WAITING(w) | DONE(d) CANCELLED(c) REPLY(r) INTERVIEW(i)
+#+TAGS: { letters(l) request(r) ifshorted(i) noletter(n) } noexport ignore
+#+OPTIONS: broken-links:mark tasks:("TODO" "WAITING" "PROGRESS")
+#+OPTIONS: tags:nil todo:nil H:3 p:t stat:nil
+#+STARTUP: content
+#+COLUMNS: %25ITEM %TODO %3PRIORITY %DEADLINE %TAGS
+#+END_PREAMBLE
+#+TITLE: My postdoc applications TODO list
+#+AUTHOR: T. Emil Rivera-Thorsen
+
+* DONE 2017 [100%]
+** REPLY [#B] Kapteyn Karina Caputi high-z gal.ev.  [100%]         :request:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "REPLY"      from "DONE"       [2017-03-07 Tue 15:44] \\
+     Not getting it, but nice letter from Caputi.
+   - State "DONE"       from "CANCELLED"  [2017-01-04 Wed 01:46]
+   :END:
+   DEADLINE: <2017-01-05 Thu>
+   LINK: [[https://jobregister.aas.org/job_view?JobID=57871][AAS]]
+
+   + [X] Documents by e-mail [4/4]
+     - [X] CV
+     - [X] Publication list
+     - [X] 2-3 pages research summary
+     - [X] Reference list
+*** Reply letter from Caputi
+    Dear Thoger,
+
+    I would like to let you know that, unfortunately, I will not be able to offer you a 
+    Postdoctoral position at the Kapteyn Astronomical Institute. Although you were being 
+    considered in a backup candidate list, the position has now been filled. 
+    Apologies for the long time that I took to give my definitive reply.
+
+    I wish you all the best for the continuation of your career.
+
+    Best regards,
+    Karina Caputi.
+
+** REPLY [#A] SDSS/MaNGA @ UW Madison [8/8]                        :letters:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "REPLY"      from "DONE"       [2017-02-17 Fri 12:00] \\
+     Didn't get it. See below.
+   - State "DONE"       from "CANCELLED"  [2016-12-28 Wed 01:49]
+   :END:
+   DEADLINE: <2017-01-10 Tue>
+   LETTERS: [[mailto:tremonti@astro.wisc.edu]]
+   LINK: [[https://jobregister.aas.org/job_view?JobID=57471][AAS]]
+   Contact: Christy Tremonti
+
+   + [X] Documents by e-mail [3/3]
+     - [X] CV
+     - [X] Publications list
+     - [X] 2-3 pages research summary
+   + [X] Reference letters [3/3]
+     - [X] Goran
+     - [X] Matthew
+     - [X] John
+*** Interesting information:                                     :noexport:
+    Tremonti is, besides what it says in the listing, also interested in AGN
+    feedback and, by extension, probably also in my ESO/HARO project. That
+    could be nice! One can always hope.
+
+    She is also the advisor of John Chisholm, and second author on the paper
+    in which he cites my LARS paper.
+*** Rejection letter from Tremonti
+    Dear Emil -  thank you for applying to my postdoc position “Galaxy 
+    Evolution with SDSS-IV/MaNGA”. I wanted to let you know that I made an 
+    offer a few days ago, and it was accepted yesterday. I received 41 
+    applications and the decision was a difficult one. You had a strong 
+    application and were one of 8 people on my long list of top candidates.  
+    I enjoyed learning more about your research (my previous thesis student 
+    worked on COS data of starburst-driven outflows) and my colleague Dawn 
+    Erb spoke very favorably about your thesis work. I’m sorry that we won’t 
+    have an opportunity to work together this time.   
+    I wish you the best of luck in your future endeavors.
+
+    All the best,
+    Christy
+
+** INTERVIEW [#A] Virginia Tech QSO/AGN outflows position [8/8]    :letters:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "REPLY"      from "REPLY"      [2017-02-22 Wed 10:32] \\
+     Was second choice. Might get offered if first choice declines. Not likely but possible.
+   - State "REPLY"      from "DONE"       [2017-02-14 Tue 18:03] \\
+     Shortlisted, interview, yay!
+   - State "DONE"       from "IN-PROGRESS" [2017-01-16 Mon 02:48]
+   :END:
+   DEADLINE: <2017-01-15 Sun>
+   LINK: [[https://jobregister.aas.org/job_view?JobID=57712][AAS]]
+   LETTERS: [[mailto:arav@vt.edu]]
+   1. [X] Documents to upload at the link shown in the annoucement page:
+      - [X] CV
+      - [X] Publications list
+      - [X] "Brief" research statement
+      
+   2. [X] Letters of reference:
+      - [X] Goran
+      - [X] Matthew
+      - [X] Joh
+*** Keywords                                                     :noexport:
+    QSO, AGN, outflows, UV/Optical spec, HST, ..
+** DONE [#A] Broad cosmology/Astrophysics stuff at Milwaukee [100%] :letters:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2017-02-01 Wed 21:33]
+   - State "WAITING"    from "TODO"       [2017-01-30 Mon 19:44] \\
+     Application sent, waiting for letters to tick in.
+   :END:
+   DEADLINE: <2017-01-31 Tue>
+   LINK: [[https://jobregister.aas.org/job_view?JobID=57558][AAS]]
+   LETTERS: [[mailto:cgca-postdoc-applications@uwm.edu]]
+   + Documents (mandatory) [3/3]
+     - [X] Publications
+     - [X] CV
+     - [X] "Brief" statement of research
+   + Recommendation letters [3/3]
+     - [X] Göran
+     - [X] Matt
+     - [X] John
+*** Interesting info
+    Dawn Erb's department. 
+*** More interesting info                                        :noexport:
+    Seem to only want research statement, not project
+    description, and also not have any tight project definition, at least not
+    visible. Could be interested in my work and I should *definitely* apply. 
+    People whose work I could align with: Erb (d'uh), Kaplan (multiwave 
+    compact objects)
+** INTERVIEW [#A] Extragal Astro/Cosmo in Oslo [100%]              :request:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "REPLY"      from "DONE"       [2017-03-03 Fri 20:38] \\
+     Interview, yay!
+     GOT IT; YAY!!
+   - State "DONE"       from "WAITING"    [2017-02-01 Wed 21:32]
+   - State "WAITING"    from "IN-PROGRESS" [2017-01-30 Mon 18:55] \\
+     Waiting for reference letters.
+   :END:
+   DEADLINE:<2017-01-31 Tue> 
+   LINK: [[http://uio.easycruit.com/vacancy/1760689/64278?iso=no][UiO]]
+   LINK: [[http://jobregister.aas.org/job_view?JobID=58438][AAS]]
+   CONTACT: [[http://www.mn.uio.no/astro/personer/vit/hdahle/][Hakon Dahle]]
+   + Documents [5/5]
+     - [X] CV
+     - [X] Publication list
+     - [X] Reseach statement
+     - [X] Reference list
+     - [X] Cover letter
+   + Letters [2/2] 
+     - [X] Goran
+     - [X] Matthew
+
+*** Special notes                                                :noexport:
+    Mark Dijkstra should somehow be mentioned here, maybe, as he knows me.  
+*** DONE Skriv til Kirsten paa Falko                             :noexport:
+    DEADLINE:<2017-01-10 Tue>
+    :LOGBOOK:
+    - State "DONE"       from "WAITING"    [2017-04-27 Thu 17:33]
+    :END:
+** INTERVIEW [#B] High-z galaxy / LyA emission Paris [100%]        :letters:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "REPLY"      from "INTERVIEW"  [2017-04-27 Thu 17:34] \\
+     Offer! But had to decline.
+   - State "REPLY"      from "DONE"       [2017-02-17 Fri 23:56] \\
+     Shortlisted! Yay!
+   - State "DONE"       from "TODO"       [2017-02-02 Thu 02:34]
+   :END:
+   DEADLINE:<2017-02-03 Fri> 
+   LINK: [[http://jobregister.aas.org/job_view?JobID=58340][AAS]]
+   CONTACT: [[mailto:susanna.vergani@obspm.fr]]
+   + Documents [3/3]
+     - [X] CV
+     - [X] Publication list
+     - [X] Brief statement of research interest and past achievements.
+   + Letters [3/3]
+     - [X] Goran
+     - [X] Matthew
+     - [X] John
+** DONE [#A] SU Astro Galaxies Hayes [3/3]                         :request:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2017-02-16 Thu 16:43]
+   :END:
+   DEADLINE: <2017-02-18 Sat>
+   LINK: [[http://bit.ly/MattFellow2017][SU Astro]]
+   LINK: [[http://jobregister.aas.org/job_view?JobID=58267][AAS]]
+   + Documents [3/3]
+     - [X] CV
+     - [X] Cover letter (1 page)
+     - [X] Research statement (3 pages)
+*** Special notes                                                :noexport:
+    Matt mentioned that even though we know each other, it might be a good 
+    idea to provide reference letters. Check whether this was the case.
+** REPLY [#A] Oxford Hintze [7/7]                                  :request:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "REPLY"      from "DONE"       [2017-02-16 Thu 16:42] \\
+     Nope
+   :END:
+   DEADLINE: <2017-01-13 Fri>
+   LINK: [[https://jobregister.aas.org/job_view?JobID=56071][AAS]]
+   + [X] Documents [2/2]
+     - [X] CV + Publication list
+     - [X] Research statement
+   + [X] Letters:
+     - [X] Göran
+     - [X] Matthew
+     - [X] John
+** CANCELLED [#A] Villum Experimentet [3/3]                        :request:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "CANCELLED"  from "IN-PROGRESS" [2017-01-20 Fri 16:58] \\
+     Not enough time to go through NBI and DARK's procedures. 
+     Needs too much work in too little time. Too bad.
+   :END:
+   DEADLINE: <2017-01-31 Tue>
+   LINK: [[http://veluxfoundations.dk/da/villum-eksperimentet-honorerer-den-forfriskende-nye-ide][Velux fonden Villum Fonden]]
+   LINK: [[http://veluxfoundations.dk/sites/default/files/proposal_guidelines_1.pdf][Proposal guidelines]]
+*** DONE Dokumenter [2/2]
+**** DONE Proposal
+***** Proposal guidelines
+      10,000 characters in total (incl. spaces, headlines , references and 
+      figure captions). Please do not include any indication of applicant or 
+      affiliation (due to anonymised review). Applications that allow the 
+      identification of the applicant will not be considered.
+
+      The proposal must include the items below and in the following order: 
+****** A: Project title
+****** B: In a nutshell  
+       /Key question, key result, key impact (no more than three sentences)./
+****** C: Research idea and context 
+       /Starting point, open question, relevance, perspective./
+       
+****** D: Proposed method of solution or concept
+       /Unique approach and, if applicable, novel hypothesis, non-standard 
+       methodology, etc./
+****** E: Major gains and obstacles 
+       /What are the expected gains of the explorative phase? What 
+       are the possible obstacles? What do you define as criteria for
+       success? What would be t he next step if the idea turns out to
+       be successful?/
+****** F: Appropriateness 
+       /Why is your research idea in your opinion particularly fitting
+       to the ‘VILLUM Experiment’?/  
+****** G: Probable objections 
+       /Which objection(s) have you met or expect to meet f rom the
+       reviewers? And how would you argue against it?/  
+****** Figure(s) 
+       /If relevant, a maximum of two explanatory figures is allowed./
+**** DONE Budget
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-06-19 Mon 12:03]
+     :END:
+     LINK: [[http://veluxfoundations.dk/sites/default/files/budget_template_3.xlsx][Budget Template]]
+** REPLY [#B] Australian NU Matt Colless [100%]                    :letters:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "REPLY"      from "ON-HOLD"    [2017-02-10 Fri 10:02] \\
+     No dice :(
+   - State "ON-HOLD"    from "IN-PROGRESS" [2017-02-03 Fri 02:17] \\
+     Waiting for last letter from G-man.
+   - State "CANCELLED"  from "TODO"       [2017-01-31 Tue 18:51] \\
+     ARGH! Forgot about time difference AGAIN!
+     Update: They allowed me to complete the applcation anyway, yay! 
+   :END:
+   DEADLINE: <2017-01-31 Tue>
+   LINK: [[https://jobregister.aas.org/job_view?JobID=57562][AAS]]
+   LETTERS: [[mailto:rsaa.hr@anu.edu.au]]
+   + Documents [4/4]
+     - [X] Cover letter
+     - [X] CV w/ publications
+     - [X] Selection criteria
+     - [X] Research statement (3p.)
+   + Letters [3/3]
+     - [X] Göran
+     - [X] Matthew
+     - [X] John
+*** Keywords
+    Peculiar velocities, fundamental plane, Spectroscopy
+*** Selection criteria                                           :noexport:
+    1) A PhD or equivalent in astronomy, astrophysics or a related area, and a 
+       demonstrated aptitude for research; a strong publication record is highly 
+       desirable.
+    2) Expertise in some or all of the following areas: 
+
+         i. observations and analysis of multi-fibre spectroscopy and multi-band 
+           imaging of galaxies
+
+	II. measurements of galaxy redshifts and Fundamental Plane distances
+
+       III. analysis of redshifts and peculiar velocities to map large-scale 
+            structure and motions
+
+	IV. cosmological analysis of redshift and peculiar velocity surveys to 
+           constrain cosmological parameters
+    3) Proven ability for problem solving, excellent data analysis and programming 
+       skills with the capacity to work collaboratively and to lead a research 
+       project.
+    4) Demonstrated ability to supervise PhD/Masters research students with the 
+       capacity and willingness to teach at all levels.
+    5) Excellent oral and written skills and a demonstrated ability to communicate 
+       and interact effectively with a variety of staff and students in a 
+       cross-disciplinary academic environment and to foster respectful and 
+       productive working relationships with staff, students and colleagues at all levels. 
+    6) A demonstrated high-level understanding of equal opportunity principles and a 
+       commitment to the application of these policies in a University context.
+** REPLY [#A] Vetenskapsrådet Internationell Postdok [100%]       :noletter:
+   DEADLINE:<2017-02-21 Tue> 
+   SCHEDULED: <2017-01-18 Wed>
+   :PROPERTIES:
+    :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "REPLY"      from "CANCELLED"  [2018-12-11 Tue 10:40] \\
+     No dice.
+   - State "DONE"       from "WAITING"    [2018-12-11 Tue 10:40]
+   - State "DONE"       from              [2017-02-22 Wed 00:34]
+   :END:
+   LINK: [[http://www.vr.se/forskningsfinansiering/sokabidrag/oversiktutlysningar2017.4.13cbb1ce134a644c01380008823.html][VR]]
+   LINK: [[https://prisma.research.se/?_ga=1.164678143.1787842468.1484531858][Prisma]]
+*** DONE Application and proposal [19/19]                        :noexport:
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+    :END:
+**** DONE Research proposal
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-02-22 Wed 00:32]
+     :END:
+**** CANCELLED Budget
+     :LOGBOOK:
+     - State "CANCELLED"  from "TODO"       [2017-02-22 Wed 00:32] \\
+       Not necessary
+     :END:
+     ...Do I even need that? I donøt think so, but I should check this before
+     I close this item.
+**** DONE Letter of support
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-02-17 Fri 20:52]
+     :END:
+**** DONE Publication list
+     :LOGBOOK:
+     - State "DONE"       from "ON-HOLD"    [2017-02-22 Wed 00:32]
+     - State "ON-HOLD"    from "IN-PROG"    [2017-02-22 Wed 00:32]
+     :END:
+**** DONE Abstract
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-02-22 Wed 00:33]
+     :END:
+     Sammanfattningen av forskningsplanen ska innehålla en kort beskrivning av:
+     - [X] vad som ska göras
+     - [X] hur forskningen ska utföras: [100%]
+       + [X] projektorganisation, 
+       + [X] tidplan och 
+       + [X] vilka vetenskapliga metoder som ska användas
+     - [X] vad som är viktigt med den planerade forskningen
+     - [X] mervärdet av att din forskning bedrivs vid vald värdinstitution i 
+       utlandet.
+
+     Texten ska ge en översiktlig orientering om forskningens syfte och 
+     genomförande. Skriv så att även personer med annan forskningsinriktning 
+     kan ta del av informationen.
+
+     Redogörelsen får omfatta högst 1 500 tecken inklusive mellanslag 
+     (motsvarande cirka en halv A4-sida i Times New Roman, teckenstorlek 12, 
+     enkelt radavstånd).
+**** DONE Populärvetenskaplig beskrivning
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-02-22 Wed 00:32]
+     :END:
+     Beskriv projektet så att även den som inte är insatt i ämnet har möjlighet 
+     att förstå. Beskriv vad som ska göras och varför, samt förklara på vilket 
+     sätt den nya kunskapen kan vara betydelsefull.
+
+     Den populärvetenskapliga beskrivningen är ett viktigt verktyg när vi 
+     informerar om den forskning som Vetenskapsrådet finansierar. Om vi beviljar 
+     din ansökan, förbehåller vi oss rätten att använda beskrivningen för 
+     informationsändamål.
+     
+     Redogörelsen får omfatta högst 4 500 tecken inklusive mellanslag 
+     (motsvarande cirka en A4-sida i Times New Roman, teckenstorlek 12, enkelt 
+     radavstånd).
+**** DONE Forskningsbeskrivning [12/12]
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+     :END:
+
+     Under denna flik bifogar du din forskningsplan i pdf-format samt 
+     beskriver etiska överväganden.
+***** DONE Etiska överväganden
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2017-02-22 Wed 00:33]
+      :END:
+      Redovisa de etiska frågor som forskningen aktualiserar och redogör för 
+      hur de behandlas i forskningsarbetet. Ange även om hantering av persondata, djur- eller humanförsök ingår i forskningen. Om inga etiska frågor är aktuella anger du detta.
+
+***** DONE Forskningsplan
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+      :END:
+      Här bifogar du din forskningsplan i pdf-format. Observera att bilagan 
+      endast kan utgöras av en fil om högst 10 MB.
+
+      Forskningsplanen ska bestå av en kortfattad men komplett beskrivning av 
+      forskningsuppgiften, på högst åtta A4-sidor i Times New Roman, 
+      teckenstorlek 12, enkelt radavstånd, referenser inkluderade. Fokus för 
+      forskningsplanen ska vara framåtblickande. Observera att eventuellt 
+      innehåll utöver det angivna maximala sidantalet inte kommer att beaktas 
+      vid beredning av din ansökan.
+
+      Följande information måste finnas med i forskningsplanen under separata 
+      rubriker och anges i nedanstående ordning:
+
+****** DONE Syfte och mål (Purpose and aims). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:33]
+       :END:
+       Redogör för övergripande syfte och specifika mål för forskningsprojektet.
+****** DONE Områdesöversikt (Survey of the field). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:33]
+       :END:
+      Gör ett sammandrag av din egen och andras forskning och tidigare resultat 
+      inom forskningsområdet. Ange nyckelreferenser.
+****** DONE Projektbeskrivning (Project description). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:33]
+       :END:
+      Gör en sammanfattning av projektet där du beskriver teori, metod, tidplan 
+      och genomförande. Beskriv även projektorganisationen och förtydliga din 
+      egen och eventuella andra forskares roller i projektet.
+****** DONE Betydelse (Significance). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:33]
+       :END:
+       Redogör för projektets betydelse för forskningsområdet.
+****** DONE Preliminära resultat (Preliminary results). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+       :END:
+       Beskriv dina egna försök och förstudier inom forskningsområdet. 
+       Ange även om det inte föreligger några preliminära resultat.
+****** DONE Resultat (Results). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+       :END:
+       Beskriv vilka resultat du förväntar dig av projektet.
+****** DONE Självständig forskningslinje (Independent line of research). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+       :END:
+       Du som verkar eller kommer att verka i en större grupp ska tydliggöra 
+       hur ditt projekt förhåller sig till de övriga projekten inom gruppen. 
+       Om du fortsätter på ett projekt som helt eller delvis har påbörjats under 
+       din doktorand- eller postdoktortid, behöver du även beskriva relationen 
+       mellan ditt projekt och din tidigare handledares forskning.
+
+     Redovisa följande under en särskild rubrik om du anser det vara relevant 
+     för din ansökan:
+
+****** DONE Utrustning (Equipment). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+       :END:
+       Beskriv den basutrustning som du och den grupp du kommer att arbeta i 
+       kan disponera för projektet.
+****** DONE Behov av infrastruktur (Need for infrastructure). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+       :END:
+      Specificera projektets behov av internationell och nationell infrastruktur.
+****** DONE Övriga ansökningar eller bidrag (Other applications or grants). 
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+       :END:
+       Om du söker eller avser att söka fler bidrag från Vetenskapsrådet ska 
+       relationen mellan projekten förtydligas. Det gäller även om du har 
+       pågående bidrag från Vetenskapsrådet med bidragsperiod som helt eller 
+       delvis överlappar med den nu sökta. Motivera även varför du skickar in 
+       ytterligare en eller flera ansökningar. Redogör även för relation till 
+       eventuella andra ansökningar eller bidrag om samma projektidé hos andra 
+       finansiärer (från dig eller annan forskare).
+*** Project
+    Jane Rigbys project Megasaur looks like it's perfect for this grant! 
+*** DONE Important mails and inqueries [2/2]                     :noexport:
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2017-02-22 Wed 00:34]
+    :END:
+**** DONE Check that there is enough time for the red tape.
+     :LOGBOOK:
+     - State "DONE"       from "WAITING"    [2017-02-17 Fri 20:50]
+     - State "WAITING"    from "TODO"       [2017-01-26 Thu 16:57] \\
+       Wrote both Jane and Göran and Matt about whether there was time for this.
+     :END:
+**** DONE Write Jane and Matt and Göran with proposal.
+     DEADLINE: <2017-01-28 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2017-02-17 Fri 20:50]
+     :END:
+** REPLY [#A] NASA NPP @ GSFC [3/3]                                :request:
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "REPLY"      from "DONE"       [2017-05-23 Tue 01:22] \\
+     As expected, no offer. But good feedback. Very valuable, actually.
+   - State "DONE"       from "IN-PROG"    [2017-03-03 Fri 20:37]
+   :END:
+   DEADLINE:<2017-03-01 Wed> 
+   LINK: [[http://jobregister.aas.org/job_view?JobID=58441][AAS]]
+   LINK: [[https://npp.usra.edu/opportunities/][NASA PP]]
+   LINK: [[https://npp.usra.edu/opportunities/details/?ro=18603][Direct link]]
+   CONTACT: [[mailto:jane.r.rigby@nasa.gov]]
+*** DONE Documents [1/1]
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2017-03-03 Fri 20:37]
+    :END:
+
+     - [X] Research proposal
+*** DONE Check if recletters still up to date
+    DEADLINE:<2017-02-01 Wed> 
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2017-02-27 Mon 18:13]
+    :END:
+    Maybe a good idea to ask for new rec letters, since I have completed my
+    degree since the last ones were written? At least ask whether this is a 
+    good idea...?
+*** DONE Write Rigby with proposal draft/last almost-submitted version
+    DEADLINE:<2017-01-27 Fri> 
+    :LOGBOOK:
+    - State "DONE"       from "WAITING"    [2017-02-27 Mon 18:14]
+    - State "WAITING"    from "TODO"       [2017-01-26 Thu 16:55] \\
+      Wrote Rigby, awaiting reply.
+    :END:
+*** Feedback
+**** Strengths
+
+     - Reviewer 1 :: The proposed research is highly topical and important in
+          advance of the launch of JWST.  A detailed comparison of UV spectral
+          diagnostics of the ISM in local and high redshift starbursting
+          galaxies, and in particular constraining the complex radiation
+          transfer that determines the efficiency of reionization in the early
+          universe is extremely valuable.  The research plan, while overly
+          ambitious, should lead to compelling results.
+
+     - Reviewer 2 :: This proposal is highly relevant to NASA, especially toward
+          the JWST sciences. The applicant also has expertise in high-quality
+          rest-frame UV spectroscopy, which is the necessary experience that
+          very few postdoctoral candidates have.
+
+     - Reviewer 3 :: The work is timely and important to put JWST observations
+          in context. The author has shown a comprehensive understanding of
+          sources, instruments, and analysis techniques necessary to complete
+          this project.
+
+          The detailed analysis of LARS and Megasaura data sets will enable
+          bootstrapping of our understanding of the local universe to high
+          redshift. This will be done on a large enough sample to lend
+          statistical credibility to the results. At all redshifts, this work
+          will improve our understanding of the radiative transfer of Ly-a
+          photons on galactic scales.
+                     
+**** Weaknesses
+
+     - Reviewer 1 :: While the proposal was full of technical details of the
+          planned research, the main weakness of the was the minimal description
+          of the Big Picture.  Why exactly is understanding the UV emission and
+          absorption features so crucial to cosmology?  What evolutionary
+          effects are expected between z~3 and z~0, and how will these be
+          constrained?  How will this project affect how JWST is used to study
+          galaxies during the reionization era?
+
+          Although the proposal somewhat lacking in this regard, I do expect
+          that in collaboration with Jane Rigby these and other issues will be
+          fully examined.
+
+          Minor: there were also quite a number of grammatical and spelling
+          errors that should have been caught prior to submission.
+
+     - Reviewer 2 :: The NASA center advisor pointed out that the timeline of
+          the proposed work could be optimistic. However, with proper support
+          and help from the collaborators, the goals could be still achievable.
+
+     - Reviewer 3 :: The two major weaknesses are these:
+          1) It is unclear how the author will contribute in a way that someone
+             else could not. While letters of recommendation speak to his talent
+             generally, his role in large projects is not explicitly called
+             out. What makes his contribution unique and necessary to the
+             projects listed?
+          2) A lot of the objectives, methods, and even requirements are
+             vague. Many lists of actual properties to be measured tail off with
+             "etc," hoping that the reader will complete the list but leaving
+             the reader wondering if the project is just open-ended data
+             analysis. Further, some mentions are made of high quality spectra
+             required for these observations, but statements like these are
+             never quantified.
+* TODO 2018/2019 [8%]                                                :ignore:
+** DONE [#B] DARK Fellowships [0/0]
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   :LOGBOOK:
+   - State "DONE"       from "DONE"       [2018-12-14 Fri 20:00]
+   - State "DONE"       from "ON-HOLD"    [2018-12-12 Wed 23:29]
+   - State "ON-HOLD"    from "WAITING"    [2018-12-12 Wed 23:28] \\
+     Awaiting answer
+   - State "WAITING"    from "DONE"       [2018-12-12 Wed 21:51] \\
+     Awaiting reply
+   - State "DONE"       from "TODO"       [2018-12-12 Wed 21:50]
+   :END:
+   DEADLINE: <2018-12-02 Sun>
+   LINK: [[https://jobregister.aas.org/ad/95690176][AAS]] 
+*** People to potentially work with
+    - Lise Christensen
+    - Marianne Vestergaard
+    - Maritza Lara-Lopez
+** TODO [#A] Joe Hennawi, UCSB: ENIGMA group    [0%]               :request:
+   DEADLINE: <2018-12-31 Mon>
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   LINK: [[https://jobregister.aas.org/ad/2bd63bcd][AAS]]
+
+   LETTERS: Request generated by site
+**** Letters from [0/5]
+***** TODO Matthew
+***** TODO Goran
+***** TODO Jane
+***** TODO Hakon
+**** TODO Documents [0/4]                                       :noexport:
+***** TODO Coverletter
+***** TODO CV
+***** TODO Publications
+***** TODO Statement of research
+** TODO [#A] Tommaso Treu UCLA: HST Cosmology.        [0%]         :letters:
+DEADLINE: <2019-01-01 Tue>
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+LINK: [[https://jobregister.aas.org/ad/c012b971][AAS]]
+
+LETTERS: [[mailto:tt@astro.ucla.edu][Tommaso Treu]]
+**** TODO Letters requested from [0/3]
+***** TODO Håkon
+***** TODO Jane
+***** TODO Göran
+**** TODO Documents [0/3]                                       :noexport:
+***** TODO Research Interests and/or research proposal
+***** TODO Publication list
+***** TODO CV
+**** NOTES                                                      :noexport:
+    This could actually be super exiting to work on. I might even 
+    jack this one up to an A, at least if not counting the impact on 
+    family etc. (do we want to live in LA?!?)
+** TODO [#A] UConn, Kate Whitaker,   [0%]                          :letters:
+   DEADLINE: <2019-01-01 Tue>
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   LINK: [[https://jobregister.aas.org/ad/703cf2cd][AAS]]
+**** TODO Letters [1/3]
+     - [X] Goran
+     - [ ] Hakon
+     - [ ] Jane
+**** TODO COMMENT Documents [0/4]
+     + [ ] CV
+     + [ ] Publication list
+     + [ ] Cover letter
+     + [ ] Research statement (2-4 pages)
+** TODO [#B] Janice Lee & Tepliz Caltech UV HST Img [0%]         :ifshorted:
+   DEADLINE: <2019-01-03 Thu>
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   LINK: [[https://jobregister.aas.org/ad/ec1c7594][AAS]]
+
+   APPLY TO: [[mailto:applications@ipac.caltech.edu][Caltech]]
+
+   LETTERS: May be requested.
+**** TODO Documents /AS ONE FILE/: [0/5]                        :noexport:
+     - [ ] Brief cover letter
+     - [ ] CV
+     - [ ] Publication list
+     - [ ] Reference contact info, 3 ppl.
+     - [ ] Research statement, 3 pg. 
+** TODO [#B] Marc Rafelski STScI   [0%]                            :request:
+   DEADLINE: <2019-01-03 Thu>
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   LINK: [[https://jobregister.aas.org/ad/6748439f][AAS]] 
+
+   LINK: [[https://stsci.slideroom.com/#/login/program/46759][Application form]]
+
+   LETTERS: Request will be generated.
+**** TODO Letters [0/3]
+***** TODO Jane
+***** TODO Goran
+***** TODO Hakon
+**** TODO Documents (in one PDF file) [0/4]                     :noexport:
+***** TODO Brief cover letter
+***** TODO CV
+***** TODO Publications
+***** TODO Previous and current research (3 pgs.)
+** TODO [#C] Trenti et al, EoR+First gals w JWST Fellow [0%]     :ifshorted:
+   DEADLINE: <2019-01-05 Sat>
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   LINK: [[http://jobs.unimelb.edu.au/caw/en/job/898249/postdoc-research-fellow-astro-3d-fellow][Uni Melb.]]
+**** TODO Documents  [0/3]
+***** TODO Cover letter / Research statement & plans
+***** TODO Selection Criteria
+***** TODO CV/Resume w/ Publications
+** TODO [#A] UW Milwaukee Erb & Kaplans group [0%]                 :letters:
+   DEADLINE: <2019-01-15 Tue> 
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   LINK: [[https://jobregister.aas.org/ad/7c6e8820][AAS]] 
+
+**** TODO Letters [0/3]
+***** TODO Goran
+***** TODO Jane
+***** TODO Hakon
+**** TODO Documents [0/4]                                       :noexport:
+***** TODO CV
+***** TODO Publications
+***** TODO Brief statement of research interests
+***** TODO Optional: Statement of outreach/education experience and interest 
+If I am interested in a position with an education and outreach component
+specified.
+**** NOTES                                                      :noexport:
+    It's for the group, not a particular person. 
+    I should stress my strong synergy with Dawn.
+    However, their text looks slightly coded to say they want more 
+    Kaplan'esque stuff. But still, worth a try.
+** TODO [#C] Ivo Labbe Swinburne Galaxy assembly in observ. [0%] :ifshorted:
+   DEADLINE: <2019-01-15 Tue>
+   :PROPERTIES:
+   :COOKIE_DATA: recursive
+   :END:
+   LINK:[[https://jobregister.aas.org/ad/7d1a4704][AAS]] 
+
+   LETTERS: Will be requested is shortlisted
+**** TODO Documents [0/3]
+***** TODO Cover letter w/ 3 referees
+***** TODO CV with publications
+***** TODO Research statement w prior achievements and future interests
+**** TODO COMMENT Check the group
+    they want you to BYOR, so write why you're a match.
+** TODO [#C] Jessica Werk, Seattle, diffuse gas/CGM  [0%]        :ifshorted:
+   DEADLINE: <2019-01-15 Tue>
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   LINK: [[https://jobregister.aas.org/ad/5dbccbe9][AAS]]
+**** Documents [0/3]
+***** TODO CV w/ publications
+***** TODO Summary of experience and goals max 2 pages
+***** TODO Reference letter writer names document file.
+**** COMMENT NOTES
+    Preferred if one wants to mentor and supervise students. 
+    Might be a good idea to address in cover letter-thing.
+** TODO [#C] JD Smith Toloedo Ohio: IR Metal abund. near & far [0%] :letters:
+   DEADLINE: <2019-02-15 Fri>
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   LINK: [[https://jobregister.aas.org/ad/1cb5e104][AAS]]
+
+   LETTERS TO: [[mailto:jd.smith@utoledo.edu][J. D. Smith]]
+**** COMMENT Documents [0/3] 
+***** TODO CV
+***** TODO Publications
+***** TODO Research interests
+**** Letters [0/3]
+***** TODO Göran
+***** TODO Håkon
+***** TODO Jane
+** TODO [#A] NASA NPP       [0%]                                   :request:
+   DEADLINE: <2019-02-28 Thu>
+   :PROPERTIES:
+   :COOKIE_DATA: todo recursive
+   :END:
+   LINK: [[https://npp.usra.edu/opportunities/details/?ro=18603][NASA NPP]]
+   LETTERS: Request will be generated
+**** TODO COMMENT Documents [0/1]
+***** TODO Project proposal (BIG JOB)
+**** TODO Letters  [0/4]
+***** TODO Göran
+***** TODO Håkon
+***** TODO Matt
+***** TODO Sangeeta?
