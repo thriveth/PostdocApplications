@@ -1,233 +1,226 @@
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#orgea611a8">1. Postdocs</a>
-<ul>
-<li><a href="#orgf8ff4c9">1.1. <span class="done WAITING">WAITING</span> <span class="priority">[C]</span> ISM @ Ohio State <code>[83%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#orgbbbf158">1.2. <span class="done WAITING">WAITING</span> <span class="priority">[C]</span> ISM, UC San Diego <code>[83%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#org86b31a6">1.3. <span class="done WAITING">WAITING</span> <span class="priority">[B]</span> UC Irvine: Cosmo/Extragal  <code>[83%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#org613078f">1.4. <span class="done WAITING">WAITING</span> <span class="priority">[A]</span> Broad cosmology/Astrophysics stuff at Milwaukee <code>[83%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#orgd247cd2">1.5. <span class="done WAITING">WAITING</span> <span class="priority">[A]</span> Extragal Astro/Cosmo in Oslo <code>[85%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
-<li><a href="#orgeebc398">1.6. <span class="done WAITING">WAITING</span> <span class="priority">[B]</span> Gal Ev w/ Subaru+CFHT, JWST at St Marys, Canada <code>[80%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#orge1de66f">1.7. <span class="todo TODO">TODO</span> <span class="priority">[C]</span> High-z galaxy / LyA emission Paris <code>[2/6]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="letters">letters</span></span></a></li>
-<li><a href="#orgf8d6538">1.8. <span class="todo TODO">TODO</span> <span class="priority">[A]</span> SU Astro Galaxies Hayes <code>[0/4]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
-</ul>
-</li>
-<li><a href="#org9d4525f">2. Fellowships</a>
-<ul>
-<li><a href="#org656d241">2.1. <span class="todo IN_PROGRESS">IN-PROGRESS</span> <span class="priority">[A]</span> Vetenskapsrådet Internationell Postdok <code>[16%]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="unknown">unknown</span></span></a></li>
-<li><a href="#org78eade9">2.2. <span class="todo IN_PROGRESS">IN-PROGRESS</span> <span class="priority">[A]</span> NASA NPP @ GSFC <code>[1/3]</code>&#xa0;&#xa0;&#xa0;<span class="tag"><span class="request">request</span></span></a></li>
-</ul>
-</li>
-</ul>
-</div>
+- [Joe Hennawi, UCSB: ENIGMA group    <code>[0%]</code>](#org96caffd)
+- [Tommaso Treu UCLA: HST Cosmology.        <code>[0/6]</code>](#org8d72dce)
+- [UConn, Kate Whitaker,   <code>[0/0]</code>](#org3994c93)
+- [Janice Lee & Tepliz Caltech UV HST Img <code>[0/5]</code>](#orgc72470b)
+- [Marc Rafelski STScI   <code>[0/5]</code>](#orge9dab99)
+- [Trenti et al, EoR+First gals w JWST Fellow <code>[0/3]</code>](#orga084e44)
+- [UW Milwaukee Erb & Kaplans group <code>[0/2]</code>](#org3b8ebfe)
+  - [Letters <code>[0/3]</code>](#org31e3dfa)
+- [Ivo Labbe Swinburne Galaxy assembly in observ. <code>[0/3]</code>](#org86d59d5)
+  - [Check the group](#orgf818aef)
+- [Calzetti starcluster formation Amherst     <code>[0/6]</code>](#org01c9433)
+- [Jessica Werk, Seattle, diffuse gas/CGM  <code>[0/4]</code>](#orgac885b1)
+  - [NOTES](#org6889116)
+- [JD Smith Toloedo Ohio: IR Metal abund. near & far <code>[0/6]</code>](#org75514cd)
+- [NASA NPP       <code>[0/5]</code>](#org7b20152)
+
+<div class="PREAMBLE">
+
 </div>
 
 
-<a id="orgea611a8"></a>
+<a id="org96caffd"></a>
 
-# Postdocs
+# [#A] Joe Hennawi, UCSB: ENIGMA group    <code>[0%]</code>
 
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2018-12-31 Mon&gt;</span></span></p>
 
-<a id="orgf8ff4c9"></a>
-
-## ISM @ Ohio State <code>[83%]</code>     :letters:
-
-DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-29 Sun&gt;</span></span>
-LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57610)
-LETTERS: [Upload](https://academicjobsonline.org/ajo/jobs/8626)
-
--   Documents <code>[3/3]</code>
-    -   [X] CV
-    -   [X] Publication list
-    -   [X] 1-3 pages research statement
--   Letters <code>[2/3]</code>
-    -   [ ] Göran
-    -   [X] Matthew
-    -   [X] John
-
-
-<a id="orgbbbf158"></a>
-
-## ISM, UC San Diego <code>[83%]</code>     :letters:
-
-DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-30 Mon&gt;</span></span>
-LINK: [AAS](http://jobregister.aas.org/job_view?JobID=57658)
-LETTERS: [Upload](https://academicjobsonline.org/ajo/jobs/8567)
-
--   Documents <code>[3/3]</code>
-    -   [X] CV
-    -   [X] Publications
-    -   [X] Research interest statement
--   Reference letters: <code>[2/3]</code>
-    -   [X] John
-    -   [X] Matthew
-    -   [ ] Göran
-
-
-<a id="org86b31a6"></a>
-
-## UC Irvine: Cosmo/Extragal  <code>[83%]</code>     :letters:
-
-URI: [AAS](https://jobregister.aas.org/job_view?JobID=55920)
-LETTERS: [Online form](https://recruit.ap.uci.edu/apply/JPF03705)
-DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue&gt;</span></span>
-
--   Documents <code>[3/3]</code>
-    -   [X] CV
-    -   [X] Publications
-    -   [X] Research interest statement
--   Reference letters: <code>[2/3]</code>
-    -   [X] John
-    -   [X] Matthew
-    -   [ ] Göran
-
-
-<a id="org613078f"></a>
-
-## Broad cosmology/Astrophysics stuff at Milwaukee <code>[83%]</code>     :letters:
-
-DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue&gt;</span></span>
-LINK: [AAS](https://jobregister.aas.org/job_view?JobID=57558)
-LETTERS: <cgca-postdoc-applications@uwm.edu>
-
--   Documents (mandatory) <code>[3/3]</code>
-    -   [X] Publications
-    -   [X] CV
-    -   [X] "Brief" statement of research
--   Recommendation letters <code>[2/3]</code>
-    -   [ ] Göran
-    -   [X] Matt
-    -   [X] John
-
-
-<a id="org2bf2da3"></a>
-
-### Interesting info
-
-Dawn Erb's department. 
-
-
-<a id="orgd247cd2"></a>
-
-## Extragal Astro/Cosmo in Oslo <code>[85%]</code>     :request:
-
-DEADLINE:<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-31 Tue&gt; </span></span> 
-LINK: [UiO](http://uio.easycruit.com/vacancy/1760689/64278?iso=no)
-LINK: [AAS](http://jobregister.aas.org/job_view?JobID=58438)
-CONTACT: [Hakon Dahle](http://www.mn.uio.no/astro/personer/vit/hdahle/)
-
--   Documents <code>[5/5]</code>
-    -   [X] CV
-    -   [X] Publication list
-    -   [X] Reseach statement
-    -   [X] Reference list
-    -   [X] Cover letter
-
--   Letters <code>[1/2]</code> 
+-   **LINK:** [AAS](https://jobregister.aas.org/ad/2bd63bcd)
+-   **LETTERS:** Request generated by site
+-   **Letters from:** <code>[0/4]</code>
+    -   [ ] Matthew
     -   [ ] Goran
-    -   [X] Matthew
+    -   [ ] Jane
+    -   [ ] Hakon
 
 
-<a id="orgeebc398"></a>
+<a id="org8d72dce"></a>
 
-## Gal Ev w/ Subaru+CFHT, JWST at St Marys, Canada <code>[80%]</code>     :letters:
+# [#A] Tommaso Treu UCLA: HST Cosmology.        <code>[0/6]</code>
 
-DEADLINE:<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-01 Wed&gt; </span></span> 
-LINK: [AAS](http://jobregister.aas.org/job_view?JobID=58449)
-LETERS: <marcin.sawicki@smu.ca>
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-01-01 Tue&gt;</span></span></p>
 
--   Documents <code>[2/2]</code>
-    -   [X] CV w/ publications
-    -   [X] Statement of research interests and accomplishments.
--   Letters <code>[2/3]</code> 
-    -   [ ] Goran
-    -   [X] Matthew
-    -   [X] John
+LINK: [AAS](https://jobregister.aas.org/ad/c012b971)
 
+LETTERS: [Tommaso Treu](mailto:tt@astro.ucla.edu)
 
-<a id="orge1de66f"></a>
-
-## High-z galaxy / LyA emission Paris <code>[2/6]</code>     :letters:
-
-DEADLINE:<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-03 Fri&gt; </span></span> 
-LINK: [AAS](http://jobregister.aas.org/job_view?JobID=58340)
-CONTACT: <susanna.vergani@obspm.fr>
-
+-   Letters from <code>[0/3]</code>
+    -   [ ] Håkon
+    -   [ ] Jane
+    -   [ ] Göran
 -   Documents <code>[0/3]</code>
+    -   [ ] Research Interests and/or research proposal
+    -   [ ] Publication list
+    -   [ ] CV
+
+
+<a id="org3994c93"></a>
+
+# [#A] UConn, Kate Whitaker,   <code>[0/0]</code>
+
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-01-01 Tue&gt;</span></span></p>
+
+LINK: [AAS](https://jobregister.aas.org/ad/703cf2cd)
+
+-   Letters <code>[0/3]</code>
+    -   [ ] Goran
+    -   [ ] Hakon
+    -   [ ] Jane
+
+
+<a id="orgc72470b"></a>
+
+# [#B] Janice Lee & Tepliz Caltech UV HST Img <code>[0/5]</code>
+
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-01-03 Thu&gt;</span></span></p>
+
+LINK: [AAS](https://jobregister.aas.org/ad/ec1c7594) APPLY TO: [Caltech](mailto:applications@ipac.caltech.edu)
+
+-   Documents *AS ONE FILE*: <code>[0/5]</code>
+    -   [ ] Brief cover letter
     -   [ ] CV
     -   [ ] Publication list
-    -   [ ] Brief statement of research interest and past achievements.
--   Letters <code>[2/3]</code>
+    -   [ ] Reference contact info, 3 ppl.
+    -   [ ] Research statement, 3 pg.
+
+
+<a id="orge9dab99"></a>
+
+# [#B] Marc Rafelski STScI   <code>[0/5]</code>
+
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-01-03 Thu&gt;</span></span></p>
+
+LINK: [AAS](https://jobregister.aas.org/ad/6748439f) LINK: Application form LETTERS: Request will be generated.
+
+-   [ ] Documents (in one PDF file) <code>[0/4]</code>
+    -   [ ] Brief cover letter
+    -   [ ] CV
+    -   [ ] Publications
+    -   [ ] Previous and current research (3 pgs.)
+
+
+<a id="orga084e44"></a>
+
+# [#C] Trenti et al, EoR+First gals w JWST Fellow <code>[0/3]</code>
+
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-01-05 Sat&gt;</span></span></p>
+
+LINKS: [Uni Melb.](http://jobs.unimelb.edu.au/caw/en/job/898249/postdoc-research-fellow-astro-3d-fellow)
+
+-   Documents <code>[0/3]</code>
+    -   [ ] Cover letter / Research statement & plans
+    -   [ ] Selection Criteria
+    -   [ ] CV/Resume w/ Publications
+
+
+<a id="org3b8ebfe"></a>
+
+# [#A] UW Milwaukee Erb & Kaplans group <code>[0/2]</code>
+
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-01-15 Tue&gt; </span></span></p>
+
+-   **LINK:** [AAS](https://jobregister.aas.org/ad/7c6e8820)
+
+
+<a id="org31e3dfa"></a>
+
+## Letters <code>[0/3]</code>
+
+-   [ ] Goran
+-   [ ] Jane
+-   [ ] Hakon
+
+
+<a id="org86d59d5"></a>
+
+# [#C] Ivo Labbe Swinburne Galaxy assembly in observ. <code>[0/3]</code>
+
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-01-15 Tue&gt;</span></span></p>
+
+LINK:[AAS](https://jobregister.aas.org/ad/7d1a4704) LETTERS: Will be requested is shortlisted
+
+-   Documents <code>[0/3]</code>
+    -   [ ] Cover letter w/ 3 referees
+    -   [ ] CV with publications
+    -   [ ] Research statement w prior achievements and future interests
+
+
+<a id="orgf818aef"></a>
+
+## Check the group
+
+they want you to BYOR, so write why you're a match.
+
+
+<a id="org01c9433"></a>
+
+# [#C] Calzetti starcluster formation Amherst     <code>[0/6]</code>
+
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-01-15 Tue&gt;</span></span></p>
+
+-   **LINK:** [AAS](https://jobregister.aas.org/ad/cbeec3d5)
+-   **LETTERS:** 3, sent to [Daniella Calzetti](mailto:calzetti@astro.umass.edu)
+-   **Documents:** <code>[0/3]</code>
+    -   [ ] CV w/ publications
+    -   [ ] Previous research (3 pages)
+    -   [ ] Future interests (1-3 pages)
+-   **Letters:** <code>[0/3]</code>
     -   [ ] Goran
-    -   [X] Matthew
-    -   [X] John
+    -   [ ] Jane
+    -   [ ] Hakon
 
 
-<a id="orgf8d6538"></a>
+<a id="orgac885b1"></a>
 
-## SU Astro Galaxies Hayes <code>[0/4]</code>     :request:
+# [#C] Jessica Werk, Seattle, diffuse gas/CGM  <code>[0/4]</code>
 
-DEADLINE: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-18 Sat&gt;</span></span>
-LINK: [SU Astro](http://bit.ly/MattFellow2017)
-LINK: [AAS](http://jobregister.aas.org/job_view?JobID=58267)
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-01-15 Tue&gt;</span></span></p>
+
+LINK: [AAS](https://jobregister.aas.org/ad/5dbccbe9)
+
+-   [ ] Documents <code>[0/3]</code>
+    -   [ ] CV w/ publications
+    -   [ ] Summary of experience and goals max 2 pages
+    -   [ ] Reference letter writer names document file.
+
+
+<a id="org6889116"></a>
+
+## NOTES
+
+Preferred if one wants to mentor and supervise students. Might be a good idea to address in cover letter-thing.
+
+
+<a id="org75514cd"></a>
+
+# [#C] JD Smith Toloedo Ohio: IR Metal abund. near & far <code>[0/6]</code>
+
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-02-15 Fri&gt;</span></span></p>
+
+LINK: [AAS](https://jobregister.aas.org/ad/1cb5e104) LETTERS: [J. D. Smith](mailto:jd.smith@utoledo.edu)
 
 -   Documents <code>[0/3]</code>
     -   [ ] CV
-    -   [ ] Cover letter (1 page)
-    -   [ ] Research statement (3 pages)
+    -   [ ] Publications
+    -   [ ] Research interests
+-   Letters <code>[0/3]</code>
+    -   [ ] Göran
+    -   [ ] Håkon
+    -   [ ] Jane
 
 
-<a id="org9d4525f"></a>
+<a id="org7b20152"></a>
 
-# Fellowships
+# [#A] NASA NPP       <code>[0/5]</code>
 
+<p><span class="timestamp-wrapper"><span class="timestamp-kwd">DEADLINE:</span> <span class="timestamp">&lt;2019-02-28 Thu&gt;</span></span></p>
 
-<a id="org656d241"></a>
+LINK: [NASA NPP](https://npp.usra.edu/opportunities/details/?ro=18603) LETTERS: Upload
 
-## Vetenskapsrådet Internationell Postdok <code>[16%]</code>     :unknown:
-
-DEADLINE:<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-02-21 Tue&gt; </span></span> 
-SCHEDULED: <span class="timestamp-wrapper"><span class="timestamp">&lt;2017-01-18 Wed&gt;</span></span>
-LINK: [VR](http://www.vr.se/forskningsfinansiering/sokabidrag/oversiktutlysningar2017.4.13cbb1ce134a644c01380008823.html)
-
-
-<a id="org1d63bb3"></a>
-
-### Project
-
-Jane Rigbys project Megasaur looks like it's perfect for this grant! 
-
-
-<a id="org78eade9"></a>
-
-## NASA NPP @ GSFC <code>[1/3]</code>     :request:
-
-DEADLINE:<span class="timestamp-wrapper"><span class="timestamp">&lt;2017-03-01 Wed&gt; </span></span> 
-LINK: [AAS](http://jobregister.aas.org/job_view?JobID=58441)
-LINK: [NASA PP](https://npp.usra.edu/opportunities/)
-LINK: [Direct link](https://npp.usra.edu/opportunities/details/?ro=18603)
-CONTACT: <jane.r.rigby@nasa.gov>
-
-
-<a id="orga507335"></a>
-
-### Documents <code>[0/1]</code>
-
--   [ ] Research proposal
-
-
-<a id="orgb05a5aa"></a>
-
-### Check if recletters still up to date
-
-Maybe a good idea to ask for new rec letters, since I have completed my
-degree since the last ones were written? At least ask whether this is a 
-good idea&#x2026;?
-
-
-<a id="org4dd270e"></a>
-
-### Write Rigby with proposal draft/last almost-submitted version
-
+-   Documents <code>[0/1]</code>
+    -   [ ] Project proposal (BIG JOB)
+-   Letters <code>[0/4]</code>
+    -   [ ] Göran
+    -   [ ] Håkon
+    -   [ ] Matt
+    -   [ ] Sangeeta?
