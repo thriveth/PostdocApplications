@@ -1,21 +1,20 @@
-- [Joe Hennawi, UCSB: ENIGMA group    ](#org543e6b9)
-- [Tommaso Treu UCLA: HST Cosmology.        ](#orgc66771c)
-- [UConn, Kate Whitaker,   ](#org7a1b4d0)
-- [Janice Lee & Tepliz Caltech UV HST Img ](#org50f1120)
-- [Durham assist. Prof. extragal ](#org22d4cea)
-- [Marc Rafelski STScI   ](#orgd69efbc)
-- [UW Milwaukee Erb & Kaplans group ](#orge1eb236)
-- [Matt Hayes, Stockholm ](#org232d59c)
-- [DAWN/DTU COFUND Fellowship ](#org64f8be1)
-  - [Documents ](#org88e3429)
-- [NASA NPP       ](#orgd0e5ea9)
+- [Joe Hennawi, UCSB: ENIGMA group    ](#orgb5d76c9)
+- [Tommaso Treu UCLA: HST Cosmology.        ](#org6e93e7d)
+- [UConn, Kate Whitaker,   ](#orgb9f04d2)
+- [Janice Lee & Tepliz Caltech UV HST Img ](#org61adb55)
+- [Durham assist. Prof. extragal ](#org2436ea7)
+- [Marc Rafelski STScI   ](#orgbd652fb)
+- [UW Milwaukee Erb & Kaplans group ](#org43576b2)
+- [Matt Hayes, Stockholm ](#orgba4ee96)
+- [DAWN/DTU COFUND Fellowship ](#org92f043f)
+- [NASA NPP       ](#orgb1e4606)
 
 <div class="PREAMBLE">
 
 </div>
 
 
-<a id="org543e6b9"></a>
+<a id="orgb5d76c9"></a>
 
 # [#A] Joe Hennawi, UCSB: ENIGMA group    
 
@@ -35,7 +34,7 @@ LINK: [AAS](https://jobregister.aas.org/ad/2bd63bcd) APPLY AT: [Portal](https://
 4.  Hakon
 
 
-<a id="orgc66771c"></a>
+<a id="org6e93e7d"></a>
 
 # [#A] Tommaso Treu UCLA: HST Cosmology.        
 
@@ -55,7 +54,7 @@ LETTERS: [Tommaso Treu](mailto:tt@astro.ucla.edu)
 3.  Göran
 
 
-<a id="org7a1b4d0"></a>
+<a id="orgb9f04d2"></a>
 
 # [#A] UConn, Kate Whitaker,   
 
@@ -75,7 +74,7 @@ LETTERS: [Kate Whitaker](mailto:kate.whitaker@uconn.edu)
 3.  Jane
 
 
-<a id="org50f1120"></a>
+<a id="org61adb55"></a>
 
 # [#B] Janice Lee & Tepliz Caltech UV HST Img 
 
@@ -88,7 +87,7 @@ APPLY TO: [Caltech](mailto:applications@ipac.caltech.edu)
 LETTERS: May be requested.
 
 
-<a id="org22d4cea"></a>
+<a id="org2436ea7"></a>
 
 # [#B] Durham assist. Prof. extragal 
 
@@ -97,7 +96,7 @@ LETTERS: May be requested.
 LINK: [Durham](https://www.dur.ac.uk/jobs/recruitment/vacancies/phys19-56/); [AAS](https://jobregister.aas.org/ad/7d2792cf)
 
 
-<a id="orgd69efbc"></a>
+<a id="orgbd652fb"></a>
 
 # [#B] Marc Rafelski STScI   
 
@@ -119,7 +118,7 @@ LETTERS: Request will be generated.
 3.  Hakon
 
 
-<a id="orge1eb236"></a>
+<a id="org43576b2"></a>
 
 # [#A] UW Milwaukee Erb & Kaplans group 
 
@@ -137,7 +136,7 @@ LINK: [AAS](https://jobregister.aas.org/ad/7c6e8820)
 3.  Hakon
 
 
-<a id="org232d59c"></a>
+<a id="orgba4ee96"></a>
 
 # [#A] Matt Hayes, Stockholm 
 
@@ -155,7 +154,7 @@ LETTERS: To [Matt Hayes](mailto:fv-4358-18.refletters@astro.su.se) LINK: [AAS](h
 3.  Håkon
 
 
-<a id="org64f8be1"></a>
+<a id="org92f043f"></a>
 
 # [#A] DAWN/DTU COFUND Fellowship 
 
@@ -164,33 +163,7 @@ LETTERS: To [Matt Hayes](mailto:fv-4358-18.refletters@astro.su.se) LINK: [AAS](h
 LETTERS: Not sure, actually. LINK: [DTU job posting](https://www.dtu.dk/om-dtu/job-og-karriere/ledige-stillinger/job?id=8dcf1367-d93b-4c2e-89ac-c73072f38229)
 
 
-<a id="org88e3429"></a>
-
-## Documents 
-
-
-### Research plan
-
-Max 5 pages.
-
-
-### Signed host statement
-
-from Sune or similar!
-
-
-### Prioritised CV and list of publications
-
-What does prioritized mean here?
-
-
-### Ethics issue table
-
-
-### PhD documentation
-
-
-<a id="orgd0e5ea9"></a>
+<a id="orgb1e4606"></a>
 
 # [#A] NASA NPP       
 
